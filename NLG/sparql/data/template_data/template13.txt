@@ -1,0 +1,100 @@
+
+QUESTION: the member state of the international centre for settlement of investment disputes which has the maximum inflation rate is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'inflation rate', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'state', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'member of', 'o': 'international centre for settlement of investment disputes'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the genus with the highest chromosome count in the taxon rank is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'chromosome count', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'taxon', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'taxon rank', 'o': 'genus'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the business enterprise with the highest maximum gradient is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'maximum gradient', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'business'}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the largest depth of a lunar crater is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'depth', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'lunar crater'}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the smartphone model of motorola with the highest maximum size or capacity is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'maximum size or capacity', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'smartphone model', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'brand', 'o': 'motorola'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the synonym with the highest gestation period is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'gestation period', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'synonym'}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the isotope of lutetium with the highest half-life is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'half-life', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'isotope of lutetium'}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the natural number with the highest numeric value is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'numeric value', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'natural number'}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the construction located in oregon with the maximum slope rating is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'slope rating', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'construction', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'located in the administrative territorial entity', 'o': 'oregon'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the chemical element of subclass period 5 has the highest density is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'density', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'chemical element', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'subclass of', 'o': 'period 5'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the gas giant in the solar system has the biggest synodic period is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'synodic period', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'gas giant', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'in', 'o': 'solar system'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the cooperative bank that is a member of bundesverband der deutschen volksbanken und raiffeisenbanken has the most employees is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'employees', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'cooperative bank', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'member of', 'o': 'bundesverband der deutschen volksbanken und raiffeisenbanken'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the bmw m20 with the highest torque and engine configuration straight-six is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'torque', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'bmw m20', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'engine configuration', 'o': 'straight-six'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the galaxy with the eridanus constellation has the fastest radial velocity is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'radial velocity', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'galaxy', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'constellation', 'o': 'eridanus'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the name of the balloon-borne telescope with the largest wavelength is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'wavelength', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'balloon-borne telescope'}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the person who is a citizen of romania has the highest egf rating is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'egf rating', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'person', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'citizen of', 'o': 'romania'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the sports season organized by the cyprus football association has the most participants is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'participants', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'sports season', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'organized by', 'o': 'cyprus football association'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the earthquake from china with the maxearthquake magnitude on the richter magnitude scale is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'earthquake magnitude on the richter magnitude scale', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'earthquake', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'country', 'o': 'china'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: destroyer with the largest draft is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'draft', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'destroyer'}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the geographic region of asia with the highest number of out of school children is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'number of out of school children', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'geographic region', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'part of', 'o': 'asia'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the dredger with the highest payload mass is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'payload mass', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'dredger'}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the name of military museum in les invalided with the highest number of visitors per year is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'visitors per year', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'military museum', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'location', 'o': 'les invalides'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the aircraft family with the highest maximum glide ratio and with manufacturer grob aircraft is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'maximum glide ratio', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'aircraft family', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'manufacturer', 'o': 'grob aircraft'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the business enterprise with the most total liabilities is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'total liabilities', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'business'}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+QUESTION: the country that is a member of the international centre for settlement of investment disputes has the most gdp is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'gdp', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'country', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'member of', 'o': 'international centre for settlement of investment disputes'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)

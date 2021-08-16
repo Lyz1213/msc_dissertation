@@ -1,0 +1,220 @@
+
+ Q: Who is the  {country} for {head of state} of {Mahmoud Abbas}
+ SPARQL:  select distinct ?sbj where { ?sbj wdt:P35 wd:Q127998 . ?sbj wdt:P31 wd:Q6256 } 
+ ALIST: {'h': 'List', 'v': '?x0', 's': '?x0', 'p': 'head of state', 'o': 'Mahmoud Abbas', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'country'}}
+
+ Q: What was the population of Somalia in 2009-0-0?
+ SPARQL: SELECT ?obj WHERE { wd:Q1045 p:P1082 ?s . ?s ps:P1082 ?obj . ?s pq:P585 ?x filter(contains(YEAR(?x),'2009')) }
+ ALIST: {'h': 'Value', 'v': '?x0', 's': 'Somalia', 'p': 'population', 'o': '?x0', 't': '2009'}
+
+ Q: What is {voice actresses} of {South Park}, that has {employment} is {singer} ?
+ SPARQL: SELECT ?answer WHERE { wd:Q16538 wdt:P725 ?answer . ?answer wdt:P106 wd:Q177220}
+ ALIST: {'h': 'Value', 'v': '?x0', 's': 'South Park', 'p': 'voice actress', 'o': '?x0', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'employ', 'o': 'singer'}}
+
+ Q: What is {nominated for} of {Dolores del Río} that is {for work} is {La Otra} ?
+ SPARQL: SELECT ?obj WHERE { wd:Q124057 p:P1411 ?s . ?s ps:P1411 ?obj . ?s pq:P1686 wd:Q3915489 }
+ ALIST: {'h': 'Value', 'v': '?x0', 's': '$y0', 'p': 'nominated for', 'o': '?x0', '$y0': {'h': 'Value', 'v': '$y0', 's': 'Dolores del Río', 'p': 'nominated for', 'o': '$y0', '$y0': {'h': 'Value', 'v': '$y0', 's': '$y0', 'p': 'for work', 'o': 'La Otra'}}}
+
+ Q: What was the population of Clermont-Ferrand on 1-1-2013?
+ SPARQL: SELECT ?obj WHERE { wd:Q42168 p:P1082 ?s . ?s ps:P1082 ?obj . ?s pq:P585 ?x filter(contains(YEAR(?x),'2013')) }
+ ALIST: {'h': 'Value', 'v': '?x0', 's': 'Clermont-Ferrand', 'p': 'population', 'o': '?x0', 't': '2013'}
+
+ Q: On Lake Winnipeg what is the lakes on river?
+ SPARQL: select distinct ?answer where { ?answer wdt:P469 wd:Q3272}
+ ALIST: {'h': 'List', 'v': '?x0', 's': '?x0', 'p': 'lakes on river', 'o': 'Lake Winnipeg'}
+
+ Q: What open cluster has the largest radius?
+ SPARQL: select ?ent where { ?ent wdt:P31 wd:Q11387 . ?ent wdt:P2120 ?obj } ORDER BY DESC(?obj)LIMIT 5 
+ ALIST: {'h': 'MAX', 'v': '$y0', 's': '?x0', 'p': 'radius', 'o': '$y0', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'open cluster'}}
+
+ Q: what is the {end time} for {Jonathan Swift} has {residence} as {Whitehaven} ?
+ SPARQL: SELECT ?value WHERE { wd:Q41166 p:P551 ?s . ?s ps:P551 wd:Q1012481 . ?s pq:P582 ?value}
+ ALIST: {'h': 'Value', 'v': '?x0', 's': '$y0', 'p': 'end time', 'o': '?x0', '$y0': {'h': 'Value', 'v': '$y0', 's': 'Jonathan Swift', 'p': 'residence', 'o': '$y0', '$y0': {'h': 'Value', 'v': '$y0', 's': '$y0', 'p': 'residence', 'o': 'Whitehaven'}}}
+
+ Q: Give me {mode of transport} that contains the word {vehicle} in their name
+ SPARQL: SELECT DISTINCT ?sbj ?sbj_label WHERE { ?sbj wdt:P31 wd:Q334166 . ?sbj rdfs:label ?sbj_label . FILTER(CONTAINS(lcase(?sbj_label), 'vehicle')) . FILTER (lang(?sbj_label) = 'en') } LIMIT 25 
+ ALIST: {'h': 'List', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'mode of transport'}, '?x1': {'h': 'Value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'vehicle'}}
+
+ Q: what is the {for work} for {Danny Elfman} has {nominated for} as {Academy Award for Best Original Score} ?
+ SPARQL: SELECT ?value WHERE { wd:Q193338 p:P1411 ?s . ?s ps:P1411 wd:Q488651 . ?s pq:P1686 ?value}
+ ALIST: {'h': 'Value', 'v': '?x0', 's': '$y0', 'p': 'for work', 'o': '?x0', '$y0': {'h': 'Value', 'v': '$y0', 's': 'Danny Elfman', 'p': 'nominated for', 'o': '$y0', '$y0': {'h': 'Value', 'v': '$y0', 's': '$y0', 'p': 'nominated for', 'o': 'Academy Award for Best Original Score'}}}
+
+ Q: What is the name of the opera based on Twelfth Night ?
+ SPARQL:  select distinct ?sbj where { ?sbj wdt:P144 wd:Q221211 . ?sbj wdt:P31 wd:Q1344 } 
+ ALIST: {'h': 'List', 'v': '?x0', 's': '?x0', 'p': 'based on', 'o': 'Twelfth Night', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'opera'}}
+
+ Q: What is {nominated for} of {Franz Waxman} that is {statement is subject of} is {23rd Academy Awards} ?
+ SPARQL: SELECT ?obj WHERE { wd:Q213611 p:P1411 ?s . ?s ps:P1411 ?obj . ?s pq:P805 wd:Q917076 }
+ ALIST: {'h': 'Value', 'v': '?x0', 's': '$y0', 'p': 'nominated for', 'o': '?x0', '$y0': {'h': 'Value', 'v': '$y0', 's': 'Franz Waxman', 'p': 'nominated for', 'o': '$y0', '$y0': {'h': 'Value', 'v': '$y0', 's': '$y0', 'p': 'statement is subject of', 'o': '23rd Academy Awards'}}}
+
+ Q: what is the {located in the administrative territorial entity} for {Rideau Canal} has {mouth of the watercourse} as {Ottawa River} ?
+ SPARQL: SELECT ?value WHERE { wd:Q651323 p:P403 ?s . ?s ps:P403 wd:Q60974 . ?s pq:P131 ?value}
+ ALIST: {'h': 'Value', 'v': '?x0', 's': '$y0', 'p': 'in', 'o': '?x0', '$y0': {'h': 'Value', 'v': '$y0', 's': 'Rideau Canal', 'p': 'mouth of the watercourse', 'o': '$y0', '$y0': {'h': 'Value', 'v': '$y0', 's': '$y0', 'p': 'mouth of the watercourse', 'o': 'Ottawa River'}}}
+
+ Q: what is the {nominee} for {The Truman Show} has {nominated for} as {Academy Award for Best Supporting Actor} ?
+ SPARQL: SELECT ?value WHERE { wd:Q214801 p:P1411 ?s . ?s ps:P1411 wd:Q106291 . ?s pq:P2453 ?value}
+ ALIST: {'h': 'Value', 'v': '?x0', 's': '$y0', 'p': 'nominee', 'o': '?x0', '$y0': {'h': 'Value', 'v': '$y0', 's': 'Truman Show', 'p': 'nominated for', 'o': '$y0', '$y0': {'h': 'Value', 'v': '$y0', 's': '$y0', 'p': 'nominated for', 'o': 'Academy Award for Best Supporting Actor'}}}
+
+ Q: Is 13413 Bobpeterson inventor find the item operator?
+ SPARQL: SELECT ?answer WHERE { wd:Q3597361 wdt:P61 ?X . ?X wdt:P137 ?answer} 
+ ALIST: {'h': 'Value', 'v': '?x0', 's': '$y0', 'p': 'operator', 'o': '?x0', '$y0': {'h': 'Value', 'v': '$y0', 's': '13413 Bobpeterson', 'p': 'inventor', 'o': '$y0'}}
+
+ Q: When did Glen Campbell receive a Grammy Hall of Fame award?
+ SPARQL: SELECT ?value WHERE { wd:Q162667 p:P166 ?s . ?s ps:P166 wd:Q81180 . ?s pq:P585 ?value} 
+ ALIST: {'h': 'Value', 'v': '?x0', 's': '$y0', 'p': 'TIME', 'o': '?x0', '$y0': {'h': 'Value', 'v': '$y0', 's': 'Glen Campbell', 'p': 'award', 'o': '$y0', '$y0': {'h': 'Value', 'v': '$y0', 's': '$y0', 'p': 'award', 'o': 'Grammy Hall of Fame'}}}
+
+ Q: When did Glen Campbell receive a Grammy Hall of Fame award?
+ SPARQL: SELECT ?value WHERE { wd:Q162667 p:P166 ?s . ?s ps:P166 wd:Q81180 . ?s pq:P585 ?value} 
+ ALIST: {'h': 'Value', 'v': '$y0', 's': 'Glen Campbell', 'p': 'award', 'o': '$y0', '$y0': {'h': 'Value', 'v': '$y0', 's': '$y0', 'p': 'award', 'o': 'Grammy Hall of Fame'}, 't': '?x0'}
+
+ Q: When did Glen Campbell receive a Grammy Hall of Fame award?
+ SPARQL: SELECT ?value WHERE { wd:Q162667 p:P166 ?s . ?s ps:P166 wd:Q81180 . ?s pq:P585 ?value} 
+ ALIST: {'h': 'Value', 'v': '$y0', 's': 'Glen Campbell', 'p': 'award', 'o': '$y0', '$y0': {'h': 'Value', 'v': '$y0', 's': '$y0', 'p': 'award', 'o': 'Grammy Hall of Fame'}, 't': '?x0'}
+
+ Q: Is the temperature of cosmic microwave background radiation equal to 2.72548?
+ SPARQL: ASK WHERE { wd:Q15605 wdt:P2076 ?obj filter(?obj = 2.72548) }  
+ ALIST: {'h': 'EQUAL', 'v': '?x0', 's': 'cosmic microwave background', 'p': 'temperature', 'o': '?x0', '?x0': '2.72548'}
+
+ Q: Is the temperature of cosmic microwave background radiation equal to 2.72548?
+ SPARQL: ASK WHERE { wd:Q15605 wdt:P2076 ?obj filter(?obj = 2.72548) }  
+ ALIST: {'h': 'EQUAL', 'v': '?x0', 's': 'cosmic microwave background', 'p': 'temperature', 'o': '?x0', '?x0': '2.72548'}
+
+ Q: What was the population of Hanoi in 2015?
+ SPARQL: SELECT ?obj WHERE { wd:Q1858 p:P1082 ?s . ?s ps:P1082 ?obj . ?s pq:P585 ?x filter(contains(YEAR(?x),'2015')) }  
+ ALIST: {'h': 'Value', 'v': '?x0', 's': 'Hanoi', 'p': 'population', 'o': '?x0', 't': '2015'}
+
+ Q: What are the war of national liberation which start with the letter war
+ SPARQL: SELECT DISTINCT ?sbj ?sbj_label WHERE { ?sbj wdt:P31 wd:Q1006311 . ?sbj rdfs:label ?sbj_label . FILTER(CONTAINS(lcase(?sbj_label), 'war')) . FILTER (lang(?sbj_label) = 'en') } LIMIT 25 
+ ALIST: {'h': 'List', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'war of national liberation'}, '?x1': {'h': 'Value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'war'}}
+
+ Q: What are the war of national liberation which start with the letter war
+ SPARQL: SELECT DISTINCT ?sbj ?sbj_label WHERE { ?sbj wdt:P31 wd:Q1006311 . ?sbj rdfs:label ?sbj_label . FILTER(CONTAINS(lcase(?sbj_label), 'war')) . FILTER (lang(?sbj_label) = 'en') } LIMIT 25 
+ ALIST: {'h': 'List', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'war of national liberation'}, '?x1': {'h': 'Value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'war'}}
+
+ Q: Who is the  {country} for {head of state} of {Mahmoud Abbas}
+ SPARQL:  select distinct ?sbj where { ?sbj wdt:P35 wd:Q127998 . ?sbj wdt:P31 wd:Q6256 } 
+ ALIST: {'h': 'List', 'v': '?x0', 's': '?x0', 'p': 'head of state', 'o': 'Mahmoud Abbas', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'country'}}
+
+ Q: What was the population of Somalia in 2009-0-0?
+ SPARQL: SELECT ?obj WHERE { wd:Q1045 p:P1082 ?s . ?s ps:P1082 ?obj . ?s pq:P585 ?x filter(contains(YEAR(?x),'2009')) }
+ ALIST: {'h': 'Value', 'v': '?x0', 's': 'Somalia', 'p': 'population', 'o': '?x0', 't': '2009'}
+
+ Q: What is {voice actresses} of {South Park}, that has {employment} is {singer} ?
+ SPARQL: SELECT ?answer WHERE { wd:Q16538 wdt:P725 ?answer . ?answer wdt:P106 wd:Q177220}
+ ALIST: {'h': 'Value', 'v': '?x0', 's': 'South Park', 'p': 'voice actress', 'o': '?x0', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'employ', 'o': 'singer'}}
+
+ Q: What is {nominated for} of {Dolores del Río} that is {for work} is {La Otra} ?
+ SPARQL: SELECT ?obj WHERE { wd:Q124057 p:P1411 ?s . ?s ps:P1411 ?obj . ?s pq:P1686 wd:Q3915489 }
+ ALIST: {'h': 'Value', 'v': '?x0', 's': '$y0', 'p': 'nominated for', 'o': '?x0', '$y0': {'h': 'Value', 'v': '$y0', 's': 'Dolores del Río', 'p': 'nominated for', 'o': '$y0', '$y0': {'h': 'Value', 'v': '$y0', 's': '$y0', 'p': 'for work', 'o': 'La Otra'}}}
+
+ Q: What was the population of Clermont-Ferrand on 1-1-2013?
+ SPARQL: SELECT ?obj WHERE { wd:Q42168 p:P1082 ?s . ?s ps:P1082 ?obj . ?s pq:P585 ?x filter(contains(YEAR(?x),'2013')) }
+ ALIST: {'h': 'Value', 'v': '?x0', 's': 'Clermont-Ferrand', 'p': 'population', 'o': '?x0', 't': '2013'}
+
+ Q: On Lake Winnipeg what is the lakes on river?
+ SPARQL: select distinct ?answer where { ?answer wdt:P469 wd:Q3272}
+ ALIST: {'h': 'List', 'v': '?x0', 's': '?x0', 'p': 'lakes on river', 'o': 'Lake Winnipeg'}
+
+ Q: What open cluster has the largest radius?
+ SPARQL: select ?ent where { ?ent wdt:P31 wd:Q11387 . ?ent wdt:P2120 ?obj } ORDER BY DESC(?obj)LIMIT 5 
+ ALIST: {'h': 'MAX', 'v': '$y0', 's': '?x0', 'p': 'radius', 'o': '$y0', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'open cluster'}}
+
+ Q: what is the {end time} for {Jonathan Swift} has {residence} as {Whitehaven} ?
+ SPARQL: SELECT ?value WHERE { wd:Q41166 p:P551 ?s . ?s ps:P551 wd:Q1012481 . ?s pq:P582 ?value}
+ ALIST: {'h': 'Value', 'v': '?x0', 's': '$y0', 'p': 'end time', 'o': '?x0', '$y0': {'h': 'Value', 'v': '$y0', 's': 'Jonathan Swift', 'p': 'residence', 'o': '$y0', '$y0': {'h': 'Value', 'v': '$y0', 's': '$y0', 'p': 'residence', 'o': 'Whitehaven'}}}
+
+ Q: Give me {mode of transport} that contains the word {vehicle} in their name
+ SPARQL: SELECT DISTINCT ?sbj ?sbj_label WHERE { ?sbj wdt:P31 wd:Q334166 . ?sbj rdfs:label ?sbj_label . FILTER(CONTAINS(lcase(?sbj_label), 'vehicle')) . FILTER (lang(?sbj_label) = 'en') } LIMIT 25 
+ ALIST: {'h': 'List', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'mode of transport'}, '?x1': {'h': 'Value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'vehicle'}}
+
+ Q: what is the {for work} for {Danny Elfman} has {nominated for} as {Academy Award for Best Original Score} ?
+ SPARQL: SELECT ?value WHERE { wd:Q193338 p:P1411 ?s . ?s ps:P1411 wd:Q488651 . ?s pq:P1686 ?value}
+ ALIST: {'h': 'Value', 'v': '?x0', 's': '$y0', 'p': 'for work', 'o': '?x0', '$y0': {'h': 'Value', 'v': '$y0', 's': 'Danny Elfman', 'p': 'nominated for', 'o': '$y0', '$y0': {'h': 'Value', 'v': '$y0', 's': '$y0', 'p': 'nominated for', 'o': 'Academy Award for Best Original Score'}}}
+
+ Q: What is the name of the opera based on Twelfth Night ?
+ SPARQL:  select distinct ?sbj where { ?sbj wdt:P144 wd:Q221211 . ?sbj wdt:P31 wd:Q1344 } 
+ ALIST: {'h': 'List', 'v': '?x0', 's': '?x0', 'p': 'based on', 'o': 'Twelfth Night', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'opera'}}
+
+ Q: What is {nominated for} of {Franz Waxman} that is {statement is subject of} is {23rd Academy Awards} ?
+ SPARQL: SELECT ?obj WHERE { wd:Q213611 p:P1411 ?s . ?s ps:P1411 ?obj . ?s pq:P805 wd:Q917076 }
+ ALIST: {'h': 'Value', 'v': '?x0', 's': '$y0', 'p': 'nominated for', 'o': '?x0', '$y0': {'h': 'Value', 'v': '$y0', 's': 'Franz Waxman', 'p': 'nominated for', 'o': '$y0', '$y0': {'h': 'Value', 'v': '$y0', 's': '$y0', 'p': 'statement is subject of', 'o': '23rd Academy Awards'}}}
+
+ Q: what is the {located in the administrative territorial entity} for {Rideau Canal} has {mouth of the watercourse} as {Ottawa River} ?
+ SPARQL: SELECT ?value WHERE { wd:Q651323 p:P403 ?s . ?s ps:P403 wd:Q60974 . ?s pq:P131 ?value}
+ ALIST: {'h': 'Value', 'v': '?x0', 's': '$y0', 'p': 'in', 'o': '?x0', '$y0': {'h': 'Value', 'v': '$y0', 's': 'Rideau Canal', 'p': 'mouth of the watercourse', 'o': '$y0', '$y0': {'h': 'Value', 'v': '$y0', 's': '$y0', 'p': 'mouth of the watercourse', 'o': 'Ottawa River'}}}
+
+ Q: what is the {nominee} for {The Truman Show} has {nominated for} as {Academy Award for Best Supporting Actor} ?
+ SPARQL: SELECT ?value WHERE { wd:Q214801 p:P1411 ?s . ?s ps:P1411 wd:Q106291 . ?s pq:P2453 ?value}
+ ALIST: {'h': 'Value', 'v': '?x0', 's': '$y0', 'p': 'nominee', 'o': '?x0', '$y0': {'h': 'Value', 'v': '$y0', 's': 'Truman Show', 'p': 'nominated for', 'o': '$y0', '$y0': {'h': 'Value', 'v': '$y0', 's': '$y0', 'p': 'nominated for', 'o': 'Academy Award for Best Supporting Actor'}}}
+
+ Q: what are the cinematic technique that contains the word tilt in their name
+ SPARQL: SELECT DISTINCT ?sbj ?sbj_label WHERE { ?sbj wdt:P31 wd:Q1001378 . ?sbj rdfs:label ?sbj_label . FILTER(CONTAINS(lcase(?sbj_label), 'tilt')) . FILTER (lang(?sbj_label) = 'en') } LIMIT 25 
+ ALIST: {'h': 'List', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'cinematic technique'}, '?x1': {'h': 'Value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'tilt'}}
+
+ Q: Tell me the historical period which is part of the time period of Muromachi period and whose name contains the word period?
+ SPARQL: SELECT DISTINCT ?sbj ?sbj_label WHERE { ?sbj wdt:P31 wd:Q11514315 . ?sbj wdt:P2348 wd:Q334845 . ?sbj rdfs:label ?sbj_label . FILTER(CONTAINS(lcase(?sbj_label), 'period')) . FILTER (lang(?sbj_label) = 'en') } LIMIT 25 
+ ALIST: {'h': 'List', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'historical period', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'time period', 'o': 'Muromachi period'}}, '?x1': {'h': 'Value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'period'}}
+
+ Q: What is the {deity} for {student} of {John the Apostle}
+ SPARQL:  select distinct ?sbj where { ?sbj wdt:P802 wd:Q44015 . ?sbj wdt:P31 wd:Q178885 } 
+ ALIST: {'h': 'List', 'v': '?x0', 's': '?x0', 'p': 'student', 'o': 'John the Apostle', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'god'}}
+
+ Q: When did socialist state for contains administrative territorial entity of Beijing?
+ SPARQL:  select distinct ?sbj where { ?sbj wdt:P150 wd:Q956 . ?sbj wdt:P31 wd:Q842112 } 
+ ALIST: {'h': 'List', 'v': '?x0', 's': '?x0', 'p': 'contains administrative territorial entity', 'o': 'Beijing', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'socialist state'}}
+
+ Q: Which is the PIM authority ID of Paul Erdős?
+ SPARQL: select distinct ?answer where { wd:Q173746 wdt:P3973 ?answer}
+ ALIST: {'h': 'List', 'v': '?x0', 's': 'Paul Erdős', 'p': 'PIM authority ID', 'o': '?x0'}
+
+ Q: "Who is {wedded to} to {Radha}, that has a {child} named {Samba} ?"
+ SPARQL: SELECT ?answer WHERE { wd:Q113904 wdt:P26 ?answer . ?answer wdt:P40 wd:Q2841495}
+ ALIST: {'h': 'Value', 'v': '?x0', 's': 'Radha', 'p': 'wedded to', 'o': '?x0', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'child', 'o': 'Samba'}}
+
+ Q: When was the GDP of Rio Grande do Sul115e+9 ?
+ SPARQL: SELECT ?value WHERE { wd:Q40030 p:P2131 ?s . ?s ps:P2131 ?x filter(contains(?x,'115e+9')) . ?s pq:P585 ?value}
+ ALIST: {'h': 'Value', 'v': '$y0', 's': 'Rio Grande do Sul', 'p': 'GDP', 'o': '$y0', '$y0': {'h': 'Value', 'v': '$y0', 's': '$y0', 'p': 'GDP', 'o': '115e+9'}, 't': '?x0'}
+
+ Q: What is <Minneapolis Institute of Art constituent ID> of <Johannes Gutenberg> ?
+ SPARQL: select distinct ?answer where { wd:Q8958 wdt:P3603 ?answer}
+ ALIST: {'h': 'List', 'v': '?x0', 's': 'Johannes Gutenberg', 'p': 'Minneapolis Institute of Art constituent ID', 'o': '?x0'}
+
+ Q: Who is born at Bertha Benz, whose inhabitants is 101165.0?
+ SPARQL: SELECT ?answer WHERE { wd:Q77117 wdt:P19 ?answer . ?answer wdt:P1082 ?x FILTER(contains(?x,'101165.0'))}
+ ALIST: {'h': 'Value', 'v': '?x0', 's': 'Bertha Benz', 'p': 'born at', 'o': '?x0', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'inhabitants', 'o': '101165.0'}}
+
+ Q: What is <Poetry In Voice poet ID> of <Percy Bysshe Shelley> ?
+ SPARQL: select distinct ?answer where { wd:Q93343 wdt:P5506 ?answer}
+ ALIST: {'h': 'List', 'v': '?x0', 's': 'Percy Bysshe Shelley', 'p': 'Poetry In Voice poet ID', 'o': '?x0'}
+
+ Q: What is <TDKIV term ID> of <blog> ?
+ SPARQL: select distinct ?answer where { wd:Q30849 wdt:P5398 ?answer}
+ ALIST: {'h': 'List', 'v': '?x0', 's': 'blog', 'p': 'TDKIV term ID', 'o': '?x0'}
+
+ Q: What is the {cause of death} and the {place of death} of {John_Denver} ?
+ SPARQL: SELECT ?ans_1 ?ans_2 WHERE { wd:Q105460 wdt:P509 ?ans_1 . wd:Q105460 wdt:P20 ?ans_2 }
+ ALIST: [{'h': 'Value', 'v': '?x0', 's': 'John Denver', 'p': 'cause of death', 'o': '?x0'}, {'h': 'Value', 'v': '?x1', 's': 'John Denver', 'p': 'place of death', 'o': '?x1'}]
+
+ Q: When did head of government of Seattle and work period (end)?
+ SPARQL: SELECT ?value1 ?obj WHERE { wd:Q5083 p:P6 ?s . ?s ps:P6 ?obj . ?s pq:P2032 ?value1}
+ ALIST: [{'h': 'Value', 'v': '?x0', 's': '$y0', 'p': 'work period (end)', 'o': '?x0', '$y0': {'h': 'Value', 'v': '$y0', 's': 'Seattle', 'p': 'head of government', 'o': '$y0'}}, {'h': 'Value', 'v': '?x1', 's': '$y0', 'p': 'head of government', 'o': '?x1', '$y0': {'h': 'Value', 'v': '$y0', 's': 'Seattle', 'p': 'head of government', 'o': '$y0'}}]
+
+ Q: What is the maximum Strahler number for Loire?
+ SPARQL: select distinct ?answer where { wd:Q1469 wdt:P1548 ?answer}
+ ALIST: {'h': 'List', 'v': '?x0', 's': 'Loire', 'p': 'maximum Strahler number', 'o': '?x0'}
+
+ Q: Which medicines have a major drug interaction with erythromycin?
+ SPARQL:  select distinct ?obj where { wd:Q213511 wdt:P769 ?obj . ?obj wdt:P31 wd:Q12140 } 
+ ALIST: {'h': 'List', 'v': '?x0', 's': 'erythromycin', 'p': 'drug interaction', 'o': '?x0', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'medicine'}}
+
+ Q: What is {eponym} of {Lake Eyre}, that has {winner of} is {Founder’s Medal} ?
+ SPARQL: SELECT ?answer WHERE { wd:Q179970 wdt:P138 ?answer . ?answer wdt:P166 wd:Q26268774}
+ ALIST: {'h': 'Value', 'v': '?x0', 's': 'Lake Eyre', 'p': 'eponym', 'o': '?x0', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'win', 'o': 'Founder’s Medal'}}
+
+ Q: What is {member of} of {find spot} of {Ebola virus disease} ?
+ SPARQL: SELECT ?answer WHERE { wd:Q51993 wdt:P189 ?X . ?X wdt:P463 ?answer}
+ ALIST: {'h': 'Value', 'v': '?x0', 's': '$y0', 'p': 'member of', 'o': '?x0', '$y0': {'h': 'Value', 'v': '$y0', 's': 'Ebola', 'p': 'find spot', 'o': '$y0'}}
+
+ Q: What profession has the highest base salary
+ SPARQL: select ?ent where { ?ent wdt:P31 wd:Q28640 . ?ent wdt:P3618 ?obj } ORDER BY DESC(?obj)LIMIT 5  
+ ALIST: {'h': 'MAX', 'v': '$y0', 's': '?x0', 'p': 'base salary', 'o': '$y0', '?x0': {'h': 'Value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'profession'}}

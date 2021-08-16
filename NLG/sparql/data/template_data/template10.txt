@@ -1,0 +1,200 @@
+
+QUESTION: the class ib flammable liquid which has the least lower flammable limit is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'lower flammable limit', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'class ib flammable liquid'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the country which has highest individual tax rate is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'individual tax rate', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'country'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the chemical compound which has the most binding energy is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'binding energy', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'chemical compound'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the type of quantum particle which has highest gyromagnetic ratio is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'gyromagnetic ratio', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'type of quantum particle'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the isotope of indium which has the most parity is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'parity', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'isotope of indium'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the material which has the highest operating temperature is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'operating temperature', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'material'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the taxon which has the highest chromosome count is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'chromosome count', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'taxon'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the nonprofit organization which has the highest total expenditure is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'total expenditure', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'nonprofit organization'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the caf champions league which has the highest number of points/goals/set scored is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'number of points/goals/set scored', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'caf champions league'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the chinese character which has the tallest stroke count is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'stroke count', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'chinese character'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the port which has the highest production rate is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'production rate', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'port'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the building which has the highest cost is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'cost', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'building'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the class iiia combustible liquid which has the highest idlh is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'idlh', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'class iiia combustible liquid'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the dwarf planet which has the highest rotation period is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'rotation period', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'dwarf planet'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the presidential election which had the most eligible voters is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'eligible voters', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'presidential election'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the chemical tanker which has the largest payload mass is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'payload mass', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'chemical tanker'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the battery storage power station which has the max energy storage capacity is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'energy storage capacity', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'battery storage power station'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the earthquake with the highest magnitude on the richter magnitude scale is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'magnitude', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'earthquake'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the business which has the most subscribers is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'subscribers', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'business'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the star which has the highest proper motion is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'proper motion', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'star'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the strain with the maximum viable temperature is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'maximum viable temperature', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'strain'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the taxon which has the highest heart rate is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'heart rate', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'taxon'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the set of numbers with the highest upper limit is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'upper limit', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'set of numbers'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the non-metal with the most electronegativity is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'electronegativity', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'non-metal'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the outer planet which has the most flattening is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'flattening', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'outer planet'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the free or open-source video game with the maximum number of players is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'maximum number of players', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'free or open-source video game'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the federation which has the highest median income is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'median income', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'federation'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the taxon which has the longest generation time is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'generation time', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'taxon'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the binary star which has the highest color index is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'color index', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'binary star'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the uci proteam which has the highest budget is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'budget', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'uci proteam'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the inner planet which has the highest orbital eccentricity is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'orbital eccentricity', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'inner planet'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the railroad with the maximum gradient is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'maximum gradient', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'railroad'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the mountain which has a tallest elevation above sea level is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'elevation above sea level', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'mountain'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the landlocked country which has the highest gdp ppp is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'gdp ppp', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'landlocked country'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the river with the most throughput is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'throughput', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'river'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the lake with the largest length is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'length', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'lake'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the chemical compound with the highest kinematic viscosity is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'kinematic viscosity', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'chemical compound'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the ester which has the highest flash point is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'flash point', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'ester'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the animated character which has got more number of children is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'number of children', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'animated character'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the spacecraft with the longest orbital period is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'orbital period', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'spacecraft'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the engine family with the highest compression ratio is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'compression ratio', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'engine family'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the silent short film with the longest duration is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'duration', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'silent short film'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the ice hockey team season which has the highest number of points/goals conceded is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'number of points/goals conceded', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'ice hockey team season'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the isotope of tin which has the highest spin quantum number is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'spin quantum number', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'isotope of tin'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the chemical compound which has the highest acceptable daily intake is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'acceptable daily intake', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'chemical compound'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the stone bridge with the longest span is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'longest span', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'stone bridge'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the drug which has the highest heat capacity is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'heat capacity', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'drug'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the cpu with the fastest fsb speed is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'fsb speed', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'cpu'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the class iiia combustible liquid which has the highest short-term exposure limit is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'short-term exposure limit', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'class iiia combustible liquid'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+QUESTION: the reserve currency with the highest price is Answer
+ALIST: {'h': 'max', 'v': '$y0', 's': '?x0', 'p': 'price', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'reserve currency'}}
+TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)

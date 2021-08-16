@@ -1,0 +1,176 @@
+
+QUESTION: the periodical literature for mouthpiece of delta air lines is Answer
+ALIST: {'h': 'list', 'v': 'Answer', 's': 'delta air lines', 'p': 'mouthpiece', 'o': 'Answer', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'periodical'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the discography for discography of jerry lee lewis is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'jerry lee lewis', 'p': 'discography', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'discography'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the history of a country or state for history of topic of korea is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'korea', 'p': 'history of topic', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'history of a country or state'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the person who was a student of ivan pavlov is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'ivan pavlov', 'p': 'student of', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'person'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the sovereign state for diplomatic relation of african union is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'african union', 'p': 'diplomatic relation', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'sovereign state'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the neighborhood for shares border of los angeles is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'los angeles', 'p': 'shares border with', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'neighborhood'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the medal for award received of angela lansbury is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'angela lansbury', 'p': 'award received', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'medal'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the historical country for country of golden horde is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'golden horde', 'p': 'country', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'historical country'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the meta-organization that is regulated by the football association is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'football', 'p': 'regulated by', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'meta-organization'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the record label signed janet jackson is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'janet jackson', 'p': 'record label', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'record label'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the university of florida is a member of Answer coalition 
+ALIST: {'h': 'list', 'v': '?x0', 's': 'university of florida', 'p': 'member of', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'coalition'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the business for employer of alexander mcqueen is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'alexander mcqueen', 'p': 'employer', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'business'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the musical duo for contributed to published work of sasha grey is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'sasha grey', 'p': 'contributed to', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'musical duo'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the municipality of belgium that has the headquarters location of european union is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'european union', 'p': 'headquarters location', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'municipality of belgium'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the international organization for parent organization of international court of justice is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'international court of justice', 'p': 'parent organization', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'international organization'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the name of the dutch municipal coat of arms of amsterdam is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'amsterdam', 'p': 'coat of arms', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'dutch municipal coat of arms'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: Answer award was received by mary tyler moore
+ALIST: {'h': 'list', 'v': '?x0', 's': 'mary tyler moore', 'p': 'award', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'award'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the character type for opposite of of superhero is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'superhero', 'p': 'opposite of', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'character type'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the monastery for headquarters location of russian orthodox church is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'russian orthodox church', 'p': 'headquarters location', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'monastery'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the stadium for home venue of green bay packers is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'green bay packers', 'p': 'home venue', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'stadium'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the enterprise for the parent organization of sears is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'sears', 'p': 'parent organization', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'enterprise'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the malayalam alphabet is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'malayalam', 'p': 'alphabet', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'alphabet'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: Answer nonprofit organization is regulated by the association of football
+ALIST: {'h': 'list', 'v': '?x0', 's': 'football', 'p': 'regulated by', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'nonprofit organization'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the city for capital of wales is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'wales', 'p': 'capital', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'city'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the archive for archives at of the walt disney company is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'disney', 'p': 'archives at', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'archives'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the pharmaceutical product for active ingredient in of erythromycin is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'erythromycin', 'p': 'active ingredient in', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'pharmaceutical product'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the chinese dynasty replaced by yuan dynasty is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'yuan', 'p': 'replaced by', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'chinese dynasty'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the viceroy for office held by head of state of tasmania is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'tasmania', 'p': 'office held by head of state', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'viceroy'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the urban municipality of germany for twinned administrative body of cardiff is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'cardiff', 'p': 'twinned administrative body', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'urban municipality of germany'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the international organization for subsidiary of world bank is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'world bank', 'p': 'subsidiary', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'international organization'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: othello has been translated into Answer editions
+ALIST: {'h': 'list', 'v': '?x0', 's': 'othello', 'p': 'editions', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'translated'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: Answer is unit of density for measured by of density
+ALIST: {'h': 'list', 'v': '?x0', 's': 'density', 'p': 'measured by', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'unit of density'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: ignatius of loyola belongs to Answer catholic order
+ALIST: {'h': 'list', 'v': '?x0', 's': 'ignatius of loyola', 'p': 'order', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'catholic order'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the human for doctoral student of jonas salk is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'jonas salk', 'p': 'doctoral student', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'human'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the former administrative territorial entity for located on terrain feature of classical antiquity is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'classical antiquity', 'p': 'location', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'former administrative territorial entity'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the theatrical character for characters of hamlet is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'hamlet', 'p': 'characters', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'theatrical character'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the ceremonial county of england for enclave within of leicester is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'leicester', 'p': 'enclave within', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'ceremonial county of england'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the human for head of state of austrian empire is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'austrian empire', 'p': 'head of state', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'human'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the athletics for owner of of stanford university is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'stanford university', 'p': 'owner of', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'athletics'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the human for mother of bill gates is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'bill gates', 'p': 'mother', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'human'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: jacinda ardern belongs to Answer political party
+ALIST: {'h': 'list', 'v': '?x0', 's': 'jacinda ardern', 'p': 'party', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'political party'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the name for incarnation of jesus christ is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'jesus', 'p': 'incarnation of', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'name'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the capital for twinned administrative body of mumbai is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'mumbai', 'p': 'twinned administrative body', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'capital'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+QUESTION: the historical nationality for the location of bilbao is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'bilbao', 'p': 'location', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'historical nationality'}}
+TEMPLATE: <S P ?O ; ?O instanceOf Type>

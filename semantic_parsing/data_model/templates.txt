@@ -1,0 +1,26 @@
+Ask (ent-pred-obj1` . ent-pred-obj2)
+E REF xF . xF RFG ?G
+(E pred F) prop ?value
+C RCD xD . xD RDE ?E
+?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+ <?S P O ; ?S instanceOf Type ; contains word >
+Ask (ent-pred-obj1 . ent-pred-obj2`)
+ <?S P O ; ?S instanceOf Type ; starts with character >
+(E pred ?Obj ) prop value
+select where (ent-pred-obj1 . ent-pred-obj2)
+<?S P O ; ?S InstanceOf Type>
+?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+Ask (ent`-pred-obj)
+E REF ?F . ?F RFG G
+ASK ?sbj ?pred ?obj filter ?obj = num
+[]
+Count ent (ent-pred-obj)
+Ask (ent-pred-obj1 . ent-pred-obj2)
+ <S P ?O ; ?O instanceOf Type>
+Ask (ent-pred-obj`)
+Ask (ent`-pred-obj1 . ent`-pred-obj2)
+?D RDE E
+Count Obj (ent-pred-obj)
+E REF ?F
+Ask (ent-pred-obj)

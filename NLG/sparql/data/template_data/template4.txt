@@ -1,0 +1,188 @@
+
+QUESTION: the cola starts with the letter p is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'cola'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'p'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the skill that starts with the letter s is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'skill'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 's'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the name of a fantastique genre that starts with the letter s is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'fantastique genre'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 's'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the horse breed whose name starts with the letter z is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'horse breed'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'z'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the religious concept starts with the letter t is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'religious concept'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 't'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the military operation which start with the letter o is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'military operation'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'o'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the national cuisine which starts with the letter m is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'national cuisine'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'm'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the intergovernmental organization whose name starts with s is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'intergovernmental organization'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 's'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the phantom island which starts with the letter t is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'phantom island'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 't'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the fictional detective which start with the letter s is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'fictional detective'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 's'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: demigod of greek mythology wears hide starts with h is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'demigod of greek mythology', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'wears', 'o': 'hide'}}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'h'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the famine which starts with the letter t is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'famine'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 't'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the  scale of temperature that measured physical quantity temperature and which that starts with letter p is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'scale of temperature', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'measured physical quantity', 'o': 'temperature'}}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'p'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the national sports team which start with the letter t is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'national sports team'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 't'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the disease that starts with the letter y is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'disease'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'y'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the painting which start with the letter y is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'painting'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'y'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the comic strip which start with the letter z is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'comic strip'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'z'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the organization name starts with z is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'organization'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'z'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the family of vehicles starts with the letter v is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'family of vehicles'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'v'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the name of a novel series that starts with the letter t is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'novel series'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 't'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the hole that contains the word d is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'hole'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'd'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the airline that starts with the letter p is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'airline'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'p'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the ring system which start with the letter r is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'ring system'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'r'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the magazine starts with z is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'magazine'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'z'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the science starts with the letter v is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'branch of science'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'v'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the state church which start with the letter m is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'state church'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'm'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the treaty which start with the letter t is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'treaty'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 't'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the political philosophy which start with the letter w is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'political philosophy'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'w'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the mathematical notation which start with the letter s is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'mathematical notation'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 's'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the extensive physical quantity that is measured by the inertial mass and starts with the letter m is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'extensive physical quantity', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'measured by', 'o': 'inertial mass'}}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'm'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the winged horse which start with the letter p is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'winged horse'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'p'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the luther city which start with the letter w is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'luther city'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'w'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the programming language implementation starts with the letter y is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'programming language implementation'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'y'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the name of the music festival that is based on sanremo music festival and that starts with the letter c is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'music festival', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'based on', 'o': 'sanremo music festival'}}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'c'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the scientific model that starts with the letter w is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'scientific model'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'w'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the civil parish that begins with the letter w is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'civil parish'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'w'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the notation which start with the letter s is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'notation'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 's'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the series of creative works that starts with the letter s is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'series of creative works'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 's'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the city with millions of inhabitants which start with the letter v is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'city with millions of inhabitants'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'v'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the dynasty that begins with the letter p is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'dynasty'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'p'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the credit institution starts with the letter w is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'credit institution'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'w'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the wikimedia disambiguation page which starts with the letter z is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'wikimedia disambiguation page'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'z'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the forensic technique starts with d is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'forensic technique'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'd'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the sovereign state starts with the letter y is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'sovereign state'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'y'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the academic major which start with the letter t is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'academic major'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 't'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the mineral variety that starts with the letter z is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'mineral variety'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'z'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+QUESTION: the animated character that starts name with w is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'animated character'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'w'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >

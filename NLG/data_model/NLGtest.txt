@@ -1,0 +1,500 @@
+
+ Q: the genetic association of major depressive disorder with the determination method tas is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': '$y0', 'p': 'genetic association', 'o': 'Answer', '$y0': {'h': 'value', 'v': '$y0', 's': 'major depressive disorder', 'p': 'genetic association', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'determination method', 'o': 'tas'}}}
+ TEMPLATE: (E pred F) prop ?value
+
+ Q: it is Answer that the cash back of the gold adac credit card equal to 5
+ SPARQL: lol
+ ALIST: {'h': 'equal', 'v': 'Answer', 's': 'adac credit card gold', 'p': 'cash back', 'o': 'Answer', 'Answer': '5'}
+ TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+ Q: the business product or material offer by Facebook is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'Answer', 'p': 'product', 'o': 'facebook', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'business'}}
+ TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+ Q: the luther city that contain the word worms in its name is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': '?x0,?x1', 's': 'Answer', 'p': 'label', 'o': '?x1', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'luther city'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'worms'}}
+ TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+ Q: the update method for itunes is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'Answer', 'p': 'update method', 'o': 'itunes'}
+ TEMPLATE: ?D RDE E
+
+ Q: the commons category of classic of poetry is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'classic of poetry', 'p': 'commons category', 'o': 'Answer'}
+ TEMPLATE: E REF ?F
+
+ Q: the language the sculptor of z3 writes in is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': '$y0', 'p': 'language', 'o': 'Answer', '$y0': {'h': 'value', 'v': '$y0', 's': 'z3', 'p': 'sculptor', 'o': '$y0'}}
+ TEMPLATE: E REF xF . xF RFG ?G
+
+ Q: the  scale of temperature that measured physical quantity temperature and which that starts with letter p is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': '?x0,?x1', 's': 'Answer', 'p': 'label', 'o': '?x1', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'scale of temperature', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'measured physical quantity', 'o': 'temperature'}}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'p'}}
+ TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+ Q: the zuckerart that contains the word syrup in its name is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': '?x0,?x1', 's': 'Answer', 'p': 'label', 'o': '?x1', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'zuckerart'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'syrup'}}
+ TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+ Q: there are Answer medical examinations are required for medical ultrasonography
+ SPARQL: lol
+ ALIST: {'h': 'count', 'v': 'Answer', 's': 'Answer', 'p': 'medical examinations', 'o': 'medical ultrasonography'}
+ TEMPLATE: Count ent (ent-pred-obj)
+
+ Q: the co-founder of the evening of ashura is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': '$y0', 'p': 'co-founder', 'o': 'Answer', '$y0': {'h': 'value', 'v': '$y0', 's': 'the evening of ashura', 'p': 'location', 'o': '$y0'}}
+ TEMPLATE: C RCD xD . xD RDE ?E
+
+ Q: demigod of greek mythology wears hide starts with h is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': '?x0,?x1', 's': 'Answer', 'p': 'label', 'o': '?x1', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'demigod of greek mythology', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'wears', 'o': 'hide'}}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'h'}}
+ TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+ Q: the cbs municipality code of nijmegen is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'nijmegen', 'p': 'cbs municipality code', 'o': 'Answer'}
+ TEMPLATE: E REF ?F
+
+ Q: the sister city of ivan turgenev hometown is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': '$y0', 'p': 'sister city', 'o': 'Answer', '$y0': {'h': 'value', 'v': '$y0', 's': 'ivan turgenev', 'p': 'hometown', 'o': '$y0'}}
+ TEMPLATE: E REF xF . xF RFG ?G
+
+ Q: the battery storage power station which has the max energy storage capacity is Answer
+ SPARQL: lol
+ ALIST: {'h': 'max', 'v': '$y0', 's': 'Answer', 'p': 'energy storage capacity', 'o': '$y0', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'battery storage power station'}}
+ TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+ Q: the cooperative bank that is a member of bundesverband der deutschen volksbanken und raiffeisenbanken has the most employees is Answer
+ SPARQL: lol
+ ALIST: {'h': 'max', 'v': '$y0', 's': 'Answer', 'p': 'employees', 'o': '$y0', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'cooperative bank', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'member of', 'o': 'bundesverband der deutschen volksbanken und raiffeisenbanken'}}}
+ TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+ Q: the national sports team which start with the letter t is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': '?x0,?x1', 's': 'Answer', 'p': 'label', 'o': '?x1', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'national sports team'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 't'}}
+ TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+ Q: it is Answer that the ppp gdp per capita of lithuania less than 22148.8
+ SPARQL: lol
+ ALIST: {'h': 'less', 'v': 'Answer', 's': 'lithuania', 'p': 'ppp gdp per capita', 'o': 'Answer', 'Answer': '22148.8'}
+ TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+ Q: the chemical tanker which has the largest payload mass is Answer
+ SPARQL: lol
+ ALIST: {'h': 'max', 'v': '$y0', 's': 'Answer', 'p': 'payload mass', 'o': '$y0', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'chemical tanker'}}
+ TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+ Q: the cardinality of this set of input set of complex logarithm is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': '$y0', 'p': 'cardinality of this set', 'o': 'Answer', '$y0': {'h': 'value', 'v': '$y0', 's': 'complex logarithm', 'p': 'input set', 'o': '$y0'}}
+ TEMPLATE: E REF xF . xF RFG ?G
+
+ Q: Answer award was received by mary tyler moore
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'mary tyler moore', 'p': 'award', 'o': 'Answer', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'award'}}
+ TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+ Q: the business for employer of alexander mcqueen is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'alexander mcqueen', 'p': 'employer', 'o': 'Answer', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'business'}}
+ TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+ Q: the earthquake with the highest magnitude on the richter magnitude scale is Answer
+ SPARQL: lol
+ ALIST: {'h': 'max', 'v': '$y0', 's': 'Answer', 'p': 'magnitude', 'o': '$y0', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'earthquake'}}
+ TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+ Q: there are Answer academic major subjects required for jurisprudence
+ SPARQL: lol
+ ALIST: {'h': 'count', 'v': 'Answer', 's': 'Answer', 'p': 'academic major', 'o': 'jurisprudence'}
+ TEMPLATE: Count ent (ent-pred-obj)
+
+ Q: the doctoral advisor of claude shannon is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'Answer', 'p': 'doctoral advisor', 'o': 'claude shannon', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'human'}}
+ TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+ Q: the international organization for parent organization of international court of justice is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'international court of justice', 'p': 'parent organization', 'o': 'Answer', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'international organization'}}
+ TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+ Q: the warheroes.ru id for yuri gagarin is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'yuri gagarin', 'p': 'warheroes.ru id', 'o': 'Answer'}
+ TEMPLATE: E REF ?F
+
+ Q: the stable version of user interface of amazon kindle is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': '$y0', 'p': 'version', 'o': 'Answer', '$y0': {'h': 'value', 'v': '$y0', 's': 'amazon kindle', 'p': 'user interface', 'o': '$y0'}}
+ TEMPLATE: E REF xF . xF RFG ?G
+
+ Q: the name of galaxy with less apparent magnitude and was discovered by william herschel is Answer
+ SPARQL: lol
+ ALIST: {'h': 'min', 'v': '$y0', 's': 'Answer', 'p': 'apparent magnitude', 'o': '$y0', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'galaxy', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'discovered by', 'o': 'william herschel'}}}
+ TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+ Q: the university of florida is a member of Answer coalition
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'university of florida', 'p': 'member of', 'o': 'Answer', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'coalition'}}
+ TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+ Q: the union of administrative territorial entity is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'Answer', 'p': 'union of', 'o': 'administrative territorial entity'}
+ TEMPLATE: ?D RDE E
+
+ Q: the bandysidan player id for sergey lomanov is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'sergey lomanov', 'p': 'bandysidan player id', 'o': 'Answer'}
+ TEMPLATE: E REF ?F
+
+ Q: the building which has the highest cost is Answer
+ SPARQL: lol
+ ALIST: {'h': 'max', 'v': '$y0', 's': 'Answer', 'p': 'cost', 'o': '$y0', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'building'}}
+ TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+ Q: the edition of the game platform of star trek online is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': '$y0', 'p': 'edition', 'o': 'Answer', '$y0': {'h': 'value', 'v': '$y0', 's': 'star trek online', 'p': 'platform', 'o': '$y0'}}
+ TEMPLATE: C RCD xD . xD RDE ?E
+
+ Q: the famine which starts with the letter t is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': '?x0,?x1', 's': 'Answer', 'p': 'label', 'o': '?x1', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'famine'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 't'}}
+ TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+ Q: the class iiia combustible liquid which has the highest idlh is Answer
+ SPARQL: lol
+ ALIST: {'h': 'max', 'v': '$y0', 's': 'Answer', 'p': 'idlh', 'o': '$y0', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'class iiia combustible liquid'}}
+ TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+ Q: the people who was married to ida lupino in 1951 is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': 'ida lupino', 'p': 'married to', 'o': 'Answer', 't': '1951'}
+ TEMPLATE: (E pred F) prop ?value
+
+ Q: the aircraft fleet which uses airplane is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'Answer', 'p': 'uses', 'o': 'airplane', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'aircraft fleet'}}
+ TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+ Q: the birth place of john walter which has a general population of 8787892 is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': 'john walter', 'p': 'birth place', 'o': 'Answer', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'population', 'o': '8787892'}}
+ TEMPLATE: E REF ?F . ?F RFG G
+
+ Q: the people contributed to the published works of el mundo is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'Answer', 'p': 'contributed to', 'o': 'el mundo'}
+ TEMPLATE: ?D RDE E
+
+ Q: alec guinness was nominated for academy award of best actor in Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': '$y0', 's': 'alec guinness', 'p': 'nominated for', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'nominated for', 'o': 'academy award for best actor'}, 't': 'Answer'}
+ TEMPLATE: (E pred ?Obj ) prop value
+
+ Q: there are Answer drainage basins are by chad basin
+ SPARQL: lol
+ ALIST: {'h': 'count', 'v': 'Answer', 's': 'Answer', 'p': 'drainage basin', 'o': 'chad basin'}
+ TEMPLATE: Count ent (ent-pred-obj)
+
+ Q: there are Answer people are appointed by the pope
+ SPARQL: lol
+ ALIST: {'h': 'count', 'v': 'Answer', 's': 'Answer', 'p': 'appointed by', 'o': 'pope'}
+ TEMPLATE: Count ent (ent-pred-obj)
+
+ Q: the bia psy person id for carl rogers is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'carl rogers', 'p': 'bia psy person id', 'o': 'Answer'}
+ TEMPLATE: E REF ?F
+
+ Q: the base of a cube is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'Answer', 'p': 'base', 'o': 'cube'}
+ TEMPLATE: ?D RDE E
+
+ Q: the total equity of micron technology is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'micron technology', 'p': 'total equity', 'o': 'Answer'}
+ TEMPLATE: E REF ?F
+
+ Q: the resting place of dedication of the church of st peter is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': '$y0', 'p': 'resting place', 'o': 'Answer', '$y0': {'h': 'value', 'v': '$y0', 's': 'church of st peter', 'p': 'dedication', 'o': '$y0'}}
+ TEMPLATE: C RCD xD . xD RDE ?E
+
+ Q: the thoracic disease that contains the word syndrome in its name is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': '?x0,?x1', 's': 'Answer', 'p': 'label', 'o': '?x1', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'thoracic disease'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'syndrome'}}
+ TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+ Q: the municipality of belgium that has the headquarters location of european union is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'european union', 'p': 'headquarters location', 'o': 'Answer', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'municipality of belgium'}}
+ TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+ Q: the biogeochemical cycle whose name has the word cycle in it is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': '?x0,?x1', 's': 'Answer', 'p': 'label', 'o': '?x1', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'biogeochemical cycle'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'cycle'}}
+ TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+ Q: the pronunciation audio of constructed out of meat pie is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': '$y0', 'p': 'pronunciation audio', 'o': 'Answer', '$y0': {'h': 'value', 'v': '$y0', 's': 'meat pie', 'p': 'constructed out of', 'o': '$y0'}}
+ TEMPLATE: E REF xF . xF RFG ?G
+
+ Q: the farthest north of place held by balkans campaign is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': '$y0', 'p': 'farthest north', 'o': 'Answer', '$y0': {'h': 'value', 'v': '$y0', 's': 'balkans campaign', 'p': 'location', 'o': '$y0'}}
+ TEMPLATE: E REF xF . xF RFG ?G
+
+ Q: the narrative location of siddhartha is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'siddhartha', 'p': 'narrative location', 'o': 'Answer'}
+ TEMPLATE: E REF ?F
+
+ Q: there are Answer positions held by the lieutenant general
+ SPARQL: lol
+ ALIST: {'h': 'count', 'v': 'Answer', 's': 'Answer', 'p': 'position held', 'o': 'lieutenant general'}
+ TEMPLATE: Count ent (ent-pred-obj)
+
+ Q: the position held by john tyler that is replaced by william henry harrison is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': '$y0', 'p': 'position held', 'o': 'Answer', '$y0': {'h': 'value', 'v': '$y0', 's': 'john tyler', 'p': 'position held', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'replaces', 'o': 'william henry harrison'}}}
+ TEMPLATE: (E pred F) prop ?value
+
+ Q: it is Answer that the apoapsis of the aotearoa 3400 equal to 2.126
+ SPARQL: lol
+ ALIST: {'h': 'equal', 'v': 'Answer', 's': 'aotearoa', 'p': 'apoapsis', 'o': 'Answer', 'Answer': '2.126'}
+ TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+ Q: the galaxy with the eridanus constellation has the fastest radial velocity is Answer
+ SPARQL: lol
+ ALIST: {'h': 'max', 'v': '$y0', 's': 'Answer', 'p': 'radial velocity', 'o': '$y0', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'galaxy', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'constellation', 'o': 'eridanus'}}}
+ TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+ Q: the compart person id of ferenc molnar is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'ferenc molnar', 'p': 'compart person id', 'o': 'Answer'}
+ TEMPLATE: E REF ?F
+
+ Q: it is Answer that the half-life of silicon-36 less than 0.54
+ SPARQL: lol
+ ALIST: {'h': 'less', 'v': 'Answer', 's': 'silicon-36', 'p': 'half-life', 'o': 'Answer', 'Answer': '0.54'}
+ TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+ Q: the people who described the element osmium and was born in selby is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': 'osmium', 'p': 'first described', 'o': 'Answer', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'born in', 'o': 'selby'}}
+ TEMPLATE: E REF ?F . ?F RFG G
+
+ Q: the bmw m20 with the highest torque and engine configuration straight-six is Answer
+ SPARQL: lol
+ ALIST: {'h': 'max', 'v': '$y0', 's': 'Answer', 'p': 'torque', 'o': '$y0', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'bmw m20', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'engine configuration', 'o': 'straight-six'}}}
+ TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+ Q: the unicameral legislature of a mexican state with the lowest number of constituencies is Answer
+ SPARQL: lol
+ ALIST: {'h': 'min', 'v': '$y0', 's': 'Answer', 'p': 'number of constituencies', 'o': '$y0', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'legislature of a mexican state', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'unicameral legislature'}}}
+ TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+ Q: the geotope of Germany with the lowest topographic isolation is Answer
+ SPARQL: lol
+ ALIST: {'h': 'min', 'v': '$y0', 's': 'Answer', 'p': 'topographic isolation', 'o': '$y0', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'geotope', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'country', 'o': 'germany'}}}
+ TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+ Q: the modified version of over the rainbow is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'Answer', 'p': 'modified version of', 'o': 'over the rainbow'}
+ TEMPLATE: ?D RDE E
+
+ Q: the television series which contains the word zigby in its name is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': '?x0,?x1', 's': 'Answer', 'p': 'label', 'o': '?x1', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'television series'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'zigby'}}
+ TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+ Q: the traditional fairy tale that contains the word snow in its name is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': '?x0,?x1', 's': 'Answer', 'p': 'label', 'o': '?x1', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'traditional fairy tale'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'snow'}}
+ TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+ Q: the state of india that contains the word uttarakhand in its name is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': '?x0,?x1', 's': 'Answer', 'p': 'label', 'o': '?x1', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'state of india'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'uttarakhand'}}
+ TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+ Q: betty white won the daytime emmy award for outstanding game show host in Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': '$y0', 's': 'betty white', 'p': 'win', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'win', 'o': 'daytime emmy award for outstanding game show host'}, 't': 'Answer'}
+ TEMPLATE: (E pred ?Obj ) prop value
+
+ Q: the location of publication of shen bao which has the partner city rotterdam is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': 'shen bao', 'p': 'location of publication', 'o': 'Answer', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'partner city', 'o': 'rotterdam'}}
+ TEMPLATE: E REF ?F . ?F RFG G
+
+ Q: it is Answer that the toughness of grivory gm-4h less than 7.2
+ SPARQL: lol
+ ALIST: {'h': 'less', 'v': 'Answer', 's': 'grivory gm-4h', 'p': 'toughness', 'o': 'Answer', 'Answer': '7.2'}
+ TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+ Q: the product of papermaking which is made of bleach is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': 'papermaking', 'p': 'product', 'o': 'Answer', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'made of', 'o': 'bleach'}}
+ TEMPLATE: E REF ?F . ?F RFG G
+
+ Q: it is Answer that the topographic prominence of the franzosenkopf less than 4.0
+ SPARQL: lol
+ ALIST: {'h': 'less', 'v': 'Answer', 's': 'franzosenkopf', 'p': 'topographic prominence', 'o': 'Answer', 'Answer': '4.0'}
+ TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+ Q: the people who is the member of oracle corporation is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'Answer', 'p': 'member of', 'o': 'oracle corporation', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'human'}}
+ TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+ Q: the people who is the son of isaac and has a son named shuah is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': 'isaac', 'p': 'son of', 'o': 'Answer', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'son', 'o': 'shuah'}}
+ TEMPLATE: E REF ?F . ?F RFG G
+
+ Q: the award did i.m. pei received in 2010 is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': 'i.m. pei', 'p': 'award', 'o': 'Answer', 't': '2010'}
+ TEMPLATE: (E pred F) prop ?value
+
+ Q: the listed ingredient for vitamin e is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'Answer', 'p': 'listed ingredient', 'o': 'vitamin e'}
+ TEMPLATE: ?D RDE E
+
+ Q: the comic strip which start with the letter z is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': '?x0,?x1', 's': 'Answer', 'p': 'label', 'o': '?x1', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'comic strip'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'z'}}
+ TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+ Q: maule region had the population of 836141.0 in Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': '$y0', 's': 'maule region', 'p': 'population', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'population', 'o': '836141.0'}, 't': 'Answer'}
+ TEMPLATE: (E pred ?Obj ) prop value
+
+ Q: the presidential election which had the most eligible voters is Answer
+ SPARQL: lol
+ ALIST: {'h': 'max', 'v': '$y0', 's': 'Answer', 'p': 'eligible voters', 'o': '$y0', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'presidential election'}}
+ TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+ Q: the disease that starts with the letter y is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': '?x0,?x1', 's': 'Answer', 'p': 'label', 'o': '?x1', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'disease'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'y'}}
+ TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+ Q: the name of the dutch municipal coat of arms of amsterdam is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'amsterdam', 'p': 'coat of arms', 'o': 'Answer', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'dutch municipal coat of arms'}}
+ TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+ Q: the team peter schmeichel started playing for in 1984 is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': 'peter schmeichel', 'p': 'team', 'o': 'Answer', 't': '1984'}
+ TEMPLATE: (E pred F) prop ?value
+
+ Q: the gas giant in the solar system has the biggest synodic period is Answer
+ SPARQL: lol
+ ALIST: {'h': 'max', 'v': '$y0', 's': 'Answer', 'p': 'synodic period', 'o': '$y0', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'gas giant', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'in', 'o': 'solar system'}}}
+ TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+
+ Q: the painting which start with the letter y is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': '?x0,?x1', 's': 'Answer', 'p': 'label', 'o': '?x1', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'painting'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'starts_with', 'o': 'y'}}
+ TEMPLATE: <?S P O ; ?S instanceOf Type ; starts with character >
+
+ Q: the protein which physically interacts with oxytocin is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'Answer', 'p': 'physically interacts with', 'o': 'oxytocin', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'protein'}}
+ TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+ Q: the taxon synonym of angiosperms is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'Answer', 'p': 'taxon synonym', 'o': 'angiosperms'}
+ TEMPLATE: ?D RDE E
+
+ Q: the population of the maldives in 1967 is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': 'maldives', 'p': 'population', 'o': 'Answer', 't': '1967'}
+ TEMPLATE: (E pred F) prop ?value
+
+ Q: the working language of sovereign state of alice springs is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': '$y0', 'p': 'working language', 'o': 'Answer', '$y0': {'h': 'value', 'v': '$y0', 's': 'alice springs', 'p': 'state', 'o': '$y0'}}
+ TEMPLATE: E REF xF . xF RFG ?G
+
+ Q: the insee countries and foreign territories code for the democratic republic of congo is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'congo', 'p': 'insee countries and foreign territories code', 'o': 'Answer'}
+ TEMPLATE: E REF ?F
+
+ Q: there are Answer leagues are in the national hockey league
+ SPARQL: lol
+ ALIST: {'h': 'count', 'v': 'Answer', 's': 'Answer', 'p': 'league', 'o': 'national hockey league'}
+ TEMPLATE: Count ent (ent-pred-obj)
+
+ Q: the port which has the highest production rate is Answer
+ SPARQL: lol
+ ALIST: {'h': 'max', 'v': '$y0', 's': 'Answer', 'p': 'production rate', 'o': '$y0', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'port'}}
+ TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+ Q: the color appears in rocketeer is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': '$y0', 'p': 'color', 'o': 'Answer', '$y0': {'h': 'value', 'v': '$y0', 's': 'rocketeer', 'p': 'appears in', 'o': '$y0'}}
+ TEMPLATE: C RCD xD . xD RDE ?E
+
+ Q: the musical duo for contributed to published work of sasha grey is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'sasha grey', 'p': 'contributed to', 'o': 'Answer', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'musical duo'}}
+ TEMPLATE: <S P ?O ; ?O instanceOf Type>
+
+ Q: the people who is the child of william jennings bryan with the biological sex of male is Answer
+ SPARQL: lol
+ ALIST: {'h': 'value', 'v': 'Answer', 's': 'william jennings bryan', 'p': 'child of', 'o': 'Answer', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'biological sex', 'o': 'male'}}
+ TEMPLATE: E REF ?F . ?F RFG G
+
+ Q: the sibling of subutai is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'Answer', 'p': 'sibling', 'o': 'subutai'}
+ TEMPLATE: ?D RDE E
+
+ Q: the item operated of a b-29 superfortress is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'Answer', 'p': 'item operated', 'o': 'b-29 superfortress'}
+ TEMPLATE: ?D RDE E
+
+ Q: the book series written by author dante alighieri is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'Answer', 'p': 'author', 'o': 'dante alighieri', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'book series'}}
+ TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+ Q: it is Answer that the topographic isolation of pollux equals to 0.7
+ SPARQL: lol
+ ALIST: {'h': 'equal', 'v': 'Answer', 's': 'pollux', 'p': 'topographic isolation', 'o': 'Answer', 'Answer': '0.7'}
+ TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+ Q: the dwarf planet which has the highest rotation period is Answer
+ SPARQL: lol
+ ALIST: {'h': 'max', 'v': '$y0', 's': 'Answer', 'p': 'rotation period', 'o': '$y0', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'dwarf planet'}}
+ TEMPLATE: ?E is_a Type, ?E pred Obj  value. MAX/MIN (value)
+
+ Q: the greek nymph which was the partner of apollo is Answer
+ SPARQL: lol
+ ALIST: {'h': 'list', 'v': 'Answer', 's': 'Answer', 'p': 'partner', 'o': 'apollo', 'Answer': {'h': 'value', 'v': 'Answer', 's': 'Answer', 'p': 'type', 'o': 'greek nymph'}}
+ TEMPLATE: <?S P O ; ?S InstanceOf Type>

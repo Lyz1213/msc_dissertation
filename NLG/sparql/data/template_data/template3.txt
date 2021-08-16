@@ -1,0 +1,232 @@
+
+QUESTION: the operating income of qantas is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'qantas', 'p': 'operating income', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the hancinema person id for zhang ziyi is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'zhang ziyi', 'p': 'hancinema person id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: ambrose burnside wears Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'ambrose burnside', 'p': 'wears', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the youtube channel id of miley cyrus is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'miley cyrus', 'p': 'youtube channel id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the total reserves of tanzania is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'tanzania', 'p': 'total reserves', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the new zealand gazetteer place id of auckland is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'auckland', 'p': 'new zealand gazetteer place id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the location of multnomah falls is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'multnomah falls', 'p': 'location', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the austrian municipality key of klagenfurt is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'klagenfurt', 'p': 'austrian municipality key', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the ionization energy of the nicotine is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'nicotine', 'p': 'ionization energy', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the prevalence of tuberculosis is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'tuberculosis', 'p': 'prevalence', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the insee countries and foreign territories code for the democratic republic of congo is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'congo', 'p': 'insee countries and foreign territories code', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the warheroes.ru id for yuri gagarin is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'yuri gagarin', 'p': 'warheroes.ru id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the narrative location of siddhartha is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'siddhartha', 'p': 'narrative location', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the total equity of micron technology is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'micron technology', 'p': 'total equity', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the bia psy person id for carl rogers is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'carl rogers', 'p': 'bia psy person id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the bandysidan player id for sergey lomanov is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'sergey lomanov', 'p': 'bandysidan player id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the compart person id of ferenc molnar is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'ferenc molnar', 'p': 'compart person id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the cbs municipality code of nijmegen is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'nijmegen', 'p': 'cbs municipality code', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the commons category of classic of poetry is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'classic of poetry', 'p': 'commons category', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the nickname of mike krzyzewski is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'mike krzyzewski', 'p': 'nickname', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: fantastic fiction author id of james ellroy is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'james ellroy', 'p': 'fantastic fiction author id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION:the sahra heritage site id of university of cape town is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'university of cape town', 'p': 'sahra heritage site id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the gens of sallust is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'sallust', 'p': 'gens', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the commons gallery of georges seurat is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'georges seurat', 'p': 'commons gallery', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the uppslagsverket finland id of kickboxing is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'kickboxing', 'p': 'uppslagsverket finland id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the basketball-reference.com nba player id of hakeem olajuwon is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'hakeem olajuwon', 'p': 'basketball-reference.com nba player id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the cpdl id of vivaldi is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'vivaldi', 'p': 'cpdl id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the gacs id of west africa is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'west africa', 'p': 'gacs id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the drainage basin of the brazos river is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'brazos river', 'p': 'drainage basin', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the world heritage tentative list id of university of tehran is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'university of tehran', 'p': 'world heritage tentative list id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the fifa player id for stanislav cherchesov is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'stanislav cherchesov', 'p': 'fifa player id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the crossref funder id of the national museum of american history is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'national museum of american history', 'p': 'crossref funder id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the siruta code of constanta is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'constanta', 'p': 'siruta code', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the brockhaus enzyklopädie online id of chile is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'chile', 'p': 'brockhaus enzyklopädie online id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the mississippi sports hall of fame id of brett favre is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'brett favre', 'p': 'mississippi sports hall of fame id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the gcatholic church id of archbasilica of st. john lateran is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'archbasilica of st. john lateran', 'p': 'gcatholic church id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the kinopoisk person id for stanley donen is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'stanley donen', 'p': 'kinopoisk person id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the native language of vincent auriol is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'vincent auriol', 'p': 'native language', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the general manager of the chicago cubs is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'chicago cubs', 'p': 'general manager', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the cdb chemical id of isopropyl alcohol is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'isopropyl alcohol', 'p': 'cdb chemical id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the darts database player id of phil taylor is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'phil taylor', 'p': 'darts database player id', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the parity of higgs boson is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'higgs boson', 'p': 'parity', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the os grid reference of bradford is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'bradford', 'p': 'os grid reference', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the connecting line of chulalongkorn university is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'chulalongkorn university', 'p': 'connecting line', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the inventory number of guernica is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'guernica', 'p': 'inventory number', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the rxnorm cui of palladium is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'palladium', 'p': 'rxnorm cui', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the color index of alpha centauri is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'alpha centauri', 'p': 'color index', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the dialect of ancient greek is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'ancient greek', 'p': 'dialect', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the issue of tuberculosis is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'tuberculosis', 'p': 'issue', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the cruise speed of airbus a340 is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'airbus a340', 'p': 'cruise speed', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the military designation of c-130 hercules is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'hercules', 'p': 'military designation', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the phone number of the united states postal service is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'united states postal service', 'p': 'phone number', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the autonomous system number of amazon is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'amazon', 'p': 'autonomous system number', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the decay mode of uranium-238 is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'uranium-238', 'p': 'decay mode', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the bps language code of sundanese is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'sundanese', 'p': 'bps language code', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the streaming media url of bjarne stroustrup is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'bjarne stroustrup', 'p': 'streaming media url', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the chief executive officer of hewlett-packard is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'hewlett-packard', 'p': 'chief executive officer', 'o': '?x0'}
+TEMPLATE: E REF ?F
+
+QUESTION: the srgb color hex triplet of cambrian is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': 'cambrian', 'p': 'srgb color hex triplet', 'o': '?x0'}
+TEMPLATE: E REF ?F

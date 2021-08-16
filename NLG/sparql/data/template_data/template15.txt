@@ -1,0 +1,76 @@
+
+QUESTION: the velká pardubická with the lowest race time whose winner is peter gehm is Answer
+ALIST: {'h': 'min', 'v': '$y0', 's': '?x0', 'p': 'race time', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'velká pardubická', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'winner', 'o': 'peter gehm'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+QUESTION: the belt sander model with the minpower consumed whose subclass of is power tool is Answer
+ALIST: {'h': 'min', 'v': '$y0', 's': '?x0', 'p': 'power consumed', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'belt sander model', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'subclass of', 'o': 'power tool'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+QUESTION: excipient that part carbon has the lowest refractive index is Answer
+ALIST: {'h': 'min', 'v': '$y0', 's': '?x0', 'p': 'refractive index', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'excipient', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'has part', 'o': 'carbon'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+QUESTION: the cultural area which has the lowest total imports from the significant event harrying of the north is Answer
+ALIST: {'h': 'min', 'v': '$y0', 's': '?x0', 'p': 'total imports', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'cultural area', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'significant event', 'o': 'harrying of the north'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+QUESTION: the galaxy cluster with the lowest flux whose constellation is virgo is Answer
+ALIST: {'h': 'min', 'v': '$y0', 's': '?x0', 'p': 'flux', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'galaxy cluster', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'constellation', 'o': 'virgo'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+QUESTION: the itime of the day that has the minimum time index in a day is Answer
+ALIST: {'h': 'min', 'v': '$y0', 's': '?x0', 'p': 'time index', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'time of the day'}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+QUESTION: the spacecraft with the lowest orbits completed is Answer
+ALIST: {'h': 'min', 'v': '$y0', 's': '?x0', 'p': 'orbits completed', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'spacecraft'}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+QUESTION: the extrasolar planet within the constellation aquarius which has the smallest radius is Answer
+ALIST: {'h': 'min', 'v': '$y0', 's': '?x0', 'p': 'radius', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'extrasolar planet', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'constellation', 'o': 'aquarius'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+QUESTION: the war cemetery has the least memorial based burials is Answer
+ALIST: {'h': 'min', 'v': '$y0', 's': '?x0', 'p': 'burials', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'war cemetery', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'memorial'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+QUESTION: the aircraft model with the lowest takeoff roll is Answer
+ALIST: {'h': 'min', 'v': '$y0', 's': '?x0', 'p': 'takeoff roll', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'aircraft model'}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+QUESTION: the geotope of Germany with the lowest topographic isolation is Answer
+ALIST: {'h': 'min', 'v': '$y0', 's': '?x0', 'p': 'topographic isolation', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'geotope', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'country', 'o': 'germany'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+QUESTION: the name of galaxy with less apparent magnitude and was discovered by william herschel is Answer
+ALIST: {'h': 'min', 'v': '$y0', 's': '?x0', 'p': 'apparent magnitude', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'galaxy', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'discovered by', 'o': 'william herschel'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+QUESTION: the unicameral legislature of a mexican state with the lowest number of constituencies is Answer
+ALIST: {'h': 'min', 'v': '$y0', 's': '?x0', 'p': 'number of constituencies', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'legislature of a mexican state', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'unicameral legislature'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+QUESTION: the cation with the lowest isospin z-component is Answer
+ALIST: {'h': 'min', 'v': '$y0', 's': '?x0', 'p': 'isospin z-component', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'cation'}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+QUESTION: the type of quantum particle with the lowest gyromagnetic ratio which has weak interaction is Answer
+ALIST: {'h': 'min', 'v': '$y0', 's': '?x0', 'p': 'gyromagnetic ratio', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'type of quantum particle', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'interaction', 'o': 'weak interaction'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+QUESTION: the shortest duration color film is Answer
+ALIST: {'h': 'min', 'v': '$y0', 's': '?x0', 'p': 'duration', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'film', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'color', 'o': 'color'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+QUESTION: the chemical compound with the least acceptable daily intake is Answer
+ALIST: {'h': 'min', 'v': '$y0', 's': '?x0', 'p': 'acceptable daily intake', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'chemical compound'}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+QUESTION: the lagoon from chile with the lowest residence time of water is Answer
+ALIST: {'h': 'min', 'v': '$y0', 's': '?x0', 'p': 'residence time of water', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'lagoon', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'country', 'o': 'chile'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+
+QUESTION: the commemorative coin with the lowest face value is made of gold is Answer
+ALIST: {'h': 'min', 'v': '$y0', 's': '?x0', 'p': 'face value', 'o': '$y0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'commemorative coin', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'made of', 'o': 'gold'}}}
+TEMPLATE: ?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)

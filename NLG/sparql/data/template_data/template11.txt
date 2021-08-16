@@ -1,0 +1,148 @@
+
+QUESTION: the landscape of virgin of the rocks which has birth city tzippori is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'virgin of the rocks', 'p': 'landscape of', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'birth city', 'o': 'tzippori'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the musical score by missa solemnis that has mother maria magdalena van beethoven is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'missa solemnis', 'p': 'musical score by', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'mother', 'o': 'maria magdalena van beethoven'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the location of narrative of infinite jest that next to quincy is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'infinite jest', 'p': 'location of narrative', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'next to', 'o': 'quincy'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the language written of romy schneider with third-person plural is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'romy schneider', 'p': 'language written', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'has grammatical person', 'o': 'third-person plural'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the deathplace of gediminas with twin town irkutsk is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'gediminas', 'p': 'deathplace', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'twin town', 'o': 'irkutsk'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the developer of proper motion with surname halley is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'proper motion', 'p': 'developer', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'surname', 'o': 'halley'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the birth city of kristen stewart which seat in los angeles county is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'kristen stewart', 'p': 'birth city', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'county seat of', 'o': 'los angeles county'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the people who participated in deep blue with top dog cray blitz is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'deep blue', 'p': 'participated in', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'top dog', 'o': 'cray blitz'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the people who is the showrunner of the apprentice and has a sister called robert trump is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'the apprentice', 'p': 'showrunner', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'sister', 'o': 'robert trump'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the historic era in epaminondas which completed in 600-1-1 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'epaminondas', 'p': 'era', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'completed in', 'o': '600-1-1'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the product of papermaking which is made of bleach is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'papermaking', 'p': 'product', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'made of', 'o': 'bleach'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the location of publication of shen bao which has the partner city rotterdam is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'shen bao', 'p': 'location of publication', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'partner city', 'o': 'rotterdam'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the birth place of john walter which has a general population of 8787892 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'john walter', 'p': 'birth place', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'population', 'o': '8787892'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the people who described the element osmium and was born in selby is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'osmium', 'p': 'first described', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'born in', 'o': 'selby'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the people who is the son of isaac and has a son named shuah is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'isaac', 'p': 'son of', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'son', 'o': 'shuah'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the people who is the child of william jennings bryan with the biological sex of male is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'william jennings bryan', 'p': 'child of', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'biological sex', 'o': 'male'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the aspect of mysticism which is distinguished from dharma is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'mysticism', 'p': 'aspect of', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'distinguished from', 'o': 'dharma'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the middle name of dan carter which has pronunciation audio pl-daniel.ogg is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'dan carter', 'p': 'middle name', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'pronunciation audio', 'o': 'pl-daniel.ogg'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the product of the automotive industry that is similar to a power-driven vehicle is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'automotive industry', 'p': 'product', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'similar to', 'o': 'power-driven vehicle'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the tributary of the oka river which can be found at the gps location of 37.0012 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'oka', 'p': 'tributary', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'location', 'o': '37.0012'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the birthplace of konrad adenauer which is bordered by the rhein-berg district is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'konrad adenauer', 'p': 'birthplace', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'bordered by', 'o': 'rhein-berg district'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the capital of the tran dynasty which has a position of 105.841 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'tran dynasty', 'p': 'capital', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'position', 'o': '105.841'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the coast of aleutian islands that has a tributary in los angeles river is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'aleutian islands', 'p': 'on the coast of', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'tributary', 'o': 'los angeles river'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the higher taxon of mammut with vernacular name mastodonty is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'mammut', 'p': 'higher taxon', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'vernacular name', 'o': 'mastodonty'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the career of fishing which uses a fishing reel is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'fishing', 'p': 'career', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'uses', 'o': 'fishing reel'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the sister of jean shrimpton who has brown eyes is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'jean shrimpton', 'p': 'sister', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'eyes', 'o': 'brown'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the game platform of pac-man with the latest release version 4.2.6 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'pac-man', 'p': 'platform', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'version', 'o': '4.2.6'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the wrote language of hiroshi sugimoto with time–manner–place as typology is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'hiroshi sugimoto', 'p': 'language', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'typology', 'o': 'time–manner–place'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the prequel of plasma state of matter which is using condensation is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'condensation', 'p': 'using', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'prequel of', 'o': 'plasma state of matter'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the language of william john macquorn rankine with place–manner–time as typology is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'william john macquorn rankine', 'p': 'language', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'typology', 'o': 'place–manner–time'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the death place of ignaz semmelweis which is next to heiligenstadt is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'ignaz semmelweis', 'p': 'death place', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'next to', 'o': 'heiligenstadt'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the twin city of basel with establishment date 751-0-0 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'basel', 'p': 'twin city', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'establishment date', 'o': '751-0-0'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the people who is the writer of on liberty and has birthday 1806 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'on liberty', 'p': 'writer', 'o': '?x0', 't': '1806'}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the writer of julius caesar who has a sister named joan shakespeare is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'julius caesar', 'p': 'writer', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'sister', 'o': 'joan shakespeare'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the developer of stirling engine who was died in galston is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'stirling engine', 'p': 'developer', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'died in', 'o': 'galston'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the inventor or discoverer of dobsonian telescope who was born in beijing is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'dobsonian telescope', 'p': 'inventor', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'location of birth', 'o': 'beijing'}}
+TEMPLATE: E REF ?F . ?F RFG G
+
+QUESTION: the name of the hometown of hello kitty with postal code n is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'hello kitty', 'p': 'hometown', 'o': '?x0', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'postal code', 'o': 'n'}}
+TEMPLATE: E REF ?F . ?F RFG G

@@ -1,0 +1,213 @@
+
+QUESTION: the statement which is subject of emigration is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'statement is subject of', 'o': 'emigration'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the facility of the defensive wall is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'facility', 'o': 'defensive wall'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the fictional analog of hippocampus is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'fictional analog of', 'o': 'hippocampus'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the the general manager of bernard hinault is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'general manager', 'o': 'bernard hinault'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the author of afterword of erich fromm is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'author of afterword', 'o': 'erich fromm'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the fuel system of electricity is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'fuel system', 'o': 'electricity'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the official residence of queens is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'official residence', 'o': 'queens'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the grants academic degrees for master of business administration is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'grants', 'o': 'master of business administration'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the category for recipients of this award of honor is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'category for recipients of this award', 'o': 'honor'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the decay mode for alpha decay is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'decay mode', 'o': 'alpha decay'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the base of a cube is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'base', 'o': 'cube'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the item operated of a b-29 superfortress is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'item operated', 'o': 'b-29 superfortress'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the taxon synonym of angiosperms is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'taxon synonym', 'o': 'angiosperms'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the listed ingredient for vitamin e is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'listed ingredient', 'o': 'vitamin e'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the update method for itunes is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'update method', 'o': 'itunes'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the modified version of over the rainbow is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'modified version of', 'o': 'over the rainbow'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the people contributed to the published works of el mundo is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'contributed to', 'o': 'el mundo'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the union of administrative territorial entity is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'union of', 'o': 'administrative territorial entity'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the sibling of subutai is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'sibling', 'o': 'subutai'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the anatomical location of the cerebellum is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'anatomical location', 'o': 'cerebellum'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the contents of the puzzle are Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'contents', 'o': 'puzzle'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the powerplant of steam turbine is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'powerplant', 'o': 'steam turbine'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the intended public of young adult is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'intended public', 'o': 'young adult'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the motto of shahada is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'motto', 'o': 'shahada'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the cover artist for peter blake is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'cover artist', 'o': 'peter blake'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the instruction set of 16-bit architecture is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'instruction set', 'o': '16-bit architecture'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the stepparent of ludwig von mises is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'stepparent', 'o': 'ludwig von mises'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the permanent duplicated item of famine is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'permanent duplicated item', 'o': 'famine'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the character role of turandot is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'character role', 'o': 'turandot'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the destination point of franz josef land is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'destination point', 'o': 'franz josef land'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the tourist office for office is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'tourist office', 'o': 'office'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the sexual orientation for asexuality is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'sexual orientation', 'o': 'asexuality'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the lake outflow from the nile is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'lake outflow', 'o': 'nile'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the referee for earl strom is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'referee', 'o': 'earl strom'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the natural product of taxon from mammuthus is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'natural product of taxon', 'o': 'mammuthus'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the domain of compact space is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'domain', 'o': 'compact space'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the connecting service of ave is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'connecting service', 'o': 'ave'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the significant person of frederick douglass is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'significant person', 'o': 'frederick douglass'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the circle of cornelius jansen is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'circle', 'o': 'cornelius jansen'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the team member of the chicago cubs is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'team member', 'o': 'chicago cubs'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the main subject for history of religions is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'main subject', 'o': 'history of religions'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the license for copyright is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'license', 'o': 'copyright'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the operator of sydney metro is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'operator', 'o': 'sydney metro'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the parent organization of ard is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'parent organization', 'o': 'ard'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the combination classification for chris froome is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'combination classification', 'o': 'chris froome'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the taxon rank for class is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'taxon rank', 'o': 'class'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the digital rights management system of die is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'digital rights management system', 'o': 'die'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the statement supported by al-qaeda is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'statement supported by', 'o': 'al-qaeda'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the fault of nazca plate is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'fault', 'o': 'nazca plate'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the native language of modern standard arabic is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'native language', 'o': 'modern standard arabic'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the allegiance of mughal empire is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'allegiance', 'o': 'mughal empire'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the postsynaptic connection of frontal lobe is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'postsynaptic connection', 'o': 'frontal lobe'}
+TEMPLATE: ?D RDE E
+
+QUESTION: the soundtrack album of symphony no.5 is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'soundtrack album', 'o': 'symphony no.5'}
+TEMPLATE: ?D RDE E
+

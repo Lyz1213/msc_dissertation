@@ -1,0 +1,156 @@
+
+QUESTION: there are Answer terminus are in vienna
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'terminus', 'o': 'vienna'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer directions relative to location are to west
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'direction relative to location', 'o': 'west'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer different kinds of industry are affected by furniture
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'industry', 'o': 'furniture'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer armaments the aircraft has
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'armament', 'o': 'aircraft'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer file formats are done on portable document format
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'file format', 'o': 'portable document format'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer occupations are by shah
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'occupation', 'o': 'shah'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer members of the crew are enola gay
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'member of the crew', 'o': 'enola gay'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer courts are in the supreme court of canada
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'court', 'o': 'supreme court of canada'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: the number of those maintained by fukuoka is Answer
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'maintained by', 'o': 'fukuoka'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer payment types accepted are money
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'payment types accepted', 'o': 'money'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer positions held by the lieutenant general
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'position held', 'o': 'lieutenant general'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer leagues are in the national hockey league
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'league', 'o': 'national hockey league'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer medical examinations are required for medical ultrasonography
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'medical examinations', 'o': 'medical ultrasonography'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer academic major subjects required for jurisprudence
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'academic major', 'o': 'jurisprudence'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer people are appointed by the pope
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'appointed by', 'o': 'pope'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer drainage basins are by chad basin
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'drainage basin', 'o': 'chad basin'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer fastest lap are held by lewis hamilton
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'fastest lap', 'o': 'lewis hamilton'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer teams are participating for chicago bulls
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'teams', 'o': 'chicago bulls'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer records held by pole vault
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'record held', 'o': 'pole vault'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer members of international hydrographic organization
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'member of', 'o': 'international hydrographic organization'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer anatomical locations are by the thymus
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'anatomical location', 'o': 'thymus'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer protocols in the internet protocol version 4
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'protocol', 'o': 'internet protocol version 4'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer categories contains castle
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'category contains', 'o': 'castle'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer terminus locations are california
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'terminus location', 'o': 'california'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer military casualty classification are in the prisoner of war
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'military casualty classification', 'o': 'prisoner of war'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer awards are given by the academic franchise
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'given by', 'o': 'academic franchise'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer films are edited by david lynch
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'edited by', 'o': 'david lynch'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer designed by isambard kingdom brunel
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'designed by', 'o': 'isambard kingdom brunel'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer presenters are dick clark
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'presenter', 'o': 'dick clark'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer people use polish as their native language
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'native language', 'o': 'polish'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer items are narrated by tom kenny
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'narrated by', 'o': 'tom kenny'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer highway systems are by interstate highway system
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'highway system', 'o': 'interstate highway system'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer commemorates were given to giuseppe garibaldi
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'commemorates', 'o': 'giuseppe garibaldi'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer languages are based on the latin script
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'based on', 'o': 'latin script', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'language'}}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer teams are from the saitama seibu lions
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'team', 'o': 'saitama seibu lions'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer allegiance to the empire of japan
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'allegiance', 'o': 'empire of japan'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer time periods are carboniferous
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'time period', 'o': 'carboniferous'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer original languages are malagasy
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'original language', 'o': 'malagasy'}
+TEMPLATE: Count ent (ent-pred-obj)
+
+QUESTION: there are Answer collection are done by museo soumaya
+ALIST: {'h': 'count', 'v': '?x0', 's': '?x0', 'p': 'collection', 'o': 'museo soumaya'}
+TEMPLATE: Count ent (ent-pred-obj)

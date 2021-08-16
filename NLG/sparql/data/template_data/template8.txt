@@ -1,0 +1,76 @@
+
+QUESTION: the publication date for itunes which has software version 12.7.5 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'publication date', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'itunes', 'p': 'version', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'version', 'o': '12.7.5'}}}
+TEMPLATE: (E pred ?Obj ) prop value
+
+QUESTION: vittorio de sica nominated for an academy award for best supporting actor in Answer
+ALIST: {'h': 'value', 'v': '$y0', 's': 'vittorio de sica', 'p': 'nominated for', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'nominated for', 'o': 'academy award for best supporting actor'}, 't': '?x0'}
+TEMPLATE: (E pred ?Obj ) prop value
+
+QUESTION: le corbusier won the frank p. brown medal in Answer
+ALIST: {'h': 'value', 'v': '$y0', 's': 'le corbusier', 'p': 'win', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'win', 'o': 'frank p. brown medal'}, 't': '?x0'}
+TEMPLATE: (E pred ?Obj ) prop value
+
+QUESTION: isadora duncan had significant event as funeral in Answer
+ALIST: {'h': 'value', 'v': '$y0', 's': 'isadora duncan', 'p': 'significant event', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'significant event', 'o': 'funeral'}, 't': '?x0'}
+TEMPLATE: (E pred ?Obj ) prop value
+
+QUESTION: barry humphries had award received as centenary medal in Answer
+ALIST: {'h': 'value', 'v': '$y0', 's': 'barry humphries', 'p': 'award received', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'award received', 'o': 'centenary medal'}, 't': '?x0'}
+TEMPLATE: (E pred ?Obj ) prop value
+
+QUESTION: supernatural won the favorite pop/rock album award in Answer
+ALIST: {'h': 'value', 'v': '$y0', 's': 'supernatural', 'p': 'award', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'award', 'o': 'favorite pop/rock album'}, 't': '?x0'}
+TEMPLATE: (E pred ?Obj ) prop value
+
+QUESTION: the temperature of toxaphene with density of 1.65 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'temperature', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'toxaphene', 'p': 'density', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'density', 'o': '1.65'}}}
+TEMPLATE: (E pred ?Obj ) prop value
+
+QUESTION: pierre de fermat received academic degree as bachelor of laws in Answer
+ALIST: {'h': 'value', 'v': '$y0', 's': 'pierre de fermat', 'p': 'academic degree', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'academic degree', 'o': 'bachelor of laws'}, 't': '?x0'}
+TEMPLATE: (E pred ?Obj ) prop value
+
+QUESTION:  the population of dalian reached 4480000 in Answer
+ALIST: {'h': 'value', 'v': '$y0', 's': 'dalian', 'p': 'population', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'population', 'o': '4480000'}, 't': '?x0'}
+TEMPLATE: (E pred ?Obj ) prop value
+
+QUESTION: samuel beckett was nominated for nobel prize in literature in Answer
+ALIST: {'h': 'value', 'v': '$y0', 's': 'samuel beckett', 'p': 'nominated for', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'nominated for', 'o': 'nobel prize in literature'}, 't': '?x0'}
+TEMPLATE: (E pred ?Obj ) prop value
+
+QUESTION: alec guinness was nominated for academy award of best actor in Answer
+ALIST: {'h': 'value', 'v': '$y0', 's': 'alec guinness', 'p': 'nominated for', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'nominated for', 'o': 'academy award for best actor'}, 't': '?x0'}
+TEMPLATE: (E pred ?Obj ) prop value
+
+QUESTION: maule region had the population of 836141.0 in Answer
+ALIST: {'h': 'value', 'v': '$y0', 's': 'maule region', 'p': 'population', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'population', 'o': '836141.0'}, 't': '?x0'}
+TEMPLATE: (E pred ?Obj ) prop value
+
+QUESTION: betty white won the daytime emmy award for outstanding game show host in Answer
+ALIST: {'h': 'value', 'v': '$y0', 's': 'betty white', 'p': 'win', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'win', 'o': 'daytime emmy award for outstanding game show host'}, 't': '?x0'}
+TEMPLATE: (E pred ?Obj ) prop value
+
+QUESTION: atacama region had the population of 230873.0 in Answer
+ALIST: {'h': 'value', 'v': '$y0', 's': 'atacama region', 'p': 'population', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'population', 'o': '230873.0'}, 't': '?x0'}
+TEMPLATE: (E pred ?Obj ) prop value
+
+QUESTION: what is the postal code of headquarters of baidu located in beijing is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'postal code', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'baidu', 'p': 'headquarters location', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'headquarters location', 'o': 'beijing'}}}
+TEMPLATE: (E pred ?Obj ) prop value
+
+QUESTION: the start time for bangalore located in the administrative territorial entity mysore state is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'start time', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'bangalore', 'p': 'located in the administrative territorial entity', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'located in the administrative territorial entity', 'o': 'mysore state'}}}
+TEMPLATE: (E pred ?Obj ) prop value
+
+QUESTION: henry steele commager received his education from the university of chicago in Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'from', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'henry steele commager', 'p': 'education', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'education', 'o': 'university of chicago'}}}
+TEMPLATE: (E pred ?Obj ) prop value
+
+QUESTION: bell hooks was educated at stanford university in Answer
+ALIST: {'h': 'value', 'v': '$y0', 's': 'bell hooks', 'p': 'educated at', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'educated at', 'o': 'stanford university'}, 't': '?x0'}
+TEMPLATE: (E pred ?Obj ) prop value
+
+QUESTION: the inflation rate in macedonia reached 3.1 in Answer
+ALIST: {'h': 'value', 'v': '$y0', 's': 'macedonia', 'p': 'inflation rate', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'inflation rate', 'o': '3.1'}, 't': '?x0'}
+TEMPLATE: (E pred ?Obj ) prop value

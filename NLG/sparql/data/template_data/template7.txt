@@ -1,0 +1,173 @@
+
+QUESTION: the fictional universe described in the matrix is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'fictional universe described in', 'o': 'the matrix', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'fictional universe'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+
+QUESTION: the human settlement for patron saint of joseph is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'patron saint', 'o': 'joseph', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'human settlement'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the university building for affiliation of columbia university is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'affiliation', 'o': 'columbia university', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'university building'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the country in significant event of indian independence movement is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'significant event', 'o': 'indian independence movement', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'country'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the golf course designed by donald trump is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'designed by', 'o': 'donald trump', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'golf course'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the programming language designed by dennis m. ritchie is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'designed by', 'o': 'dennis m. ritchie', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'programming language'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the business with lyon as location of headquarters is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'headquarters location', 'o': 'lyon', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'business'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the biopharmaceutical encoded by ins is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'encoded by', 'o': 'ins', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'biopharmaceutical'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the spacecraft that is manufactured by spacex is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'manufactured by', 'o': 'spacex', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'spacecraft'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the people who is the doctoral advisor of c. v. raman is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'doctoral advisor', 'o': 'c. v. raman', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'human'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the book series written by author dante alighieri is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'author', 'o': 'dante alighieri', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'book series'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the business product or material offer by Facebook is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'product', 'o': 'facebook', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'business'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the greek nymph which was the partner of apollo is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'partner', 'o': 'apollo', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'greek nymph'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the people who is the member of oracle corporation is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'member of', 'o': 'oracle corporation', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'human'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the doctoral advisor of claude shannon is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'doctoral advisor', 'o': 'claude shannon', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'human'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the aircraft fleet which uses airplane is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'uses', 'o': 'airplane', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'aircraft fleet'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the protein which physically interacts with oxytocin is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'physically interacts with', 'o': 'oxytocin', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'protein'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the non-metropolitan county which shares a border with hampshire is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'border', 'o': 'hampshire', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'non-metropolitan county'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the person whose military branch is kgb is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'military branch', 'o': 'kgb', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'person'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the partner of chow yun-fat is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'partner', 'o': 'chow yun-fat', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'human'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the stepparent of johnny cash is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'stepparent', 'o': 'johnny cash', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'human'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the theorem proved by grigori perelman is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'proved by', 'o': 'grigori perelman', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'theorem'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the liberal arts college that is affiliated with columbia university is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'affiliated with', 'o': 'columbia university', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'liberal arts college'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the poetry collection that has traditional chinese characters as writing system is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'writing system', 'o': 'traditional chinese characters', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'poetry collection'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the people whose doctoral student is niels bohr is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'doctoral student', 'o': 'niels bohr', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'human'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the sacred language which follows ancient greek is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'follows', 'o': 'ancient greek', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'sacred language'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the organization that has it headquarters located in aachen is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'headquarters', 'o': 'aachen', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'organization'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the brand which is the manufacturer of spacex is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'manufacturer', 'o': 'spacex', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'brand'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the automobile model that is manufactured by honda is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'manufactured by', 'o': 'honda', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'automobile model'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the mother of nicole richie is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'mother', 'o': 'nicole richie', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'human'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the award with the winner of loretta lynn is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'winner', 'o': 'loretta lynn', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'award'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the church monument where paul was the patron saint is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'patron saint', 'o': 'paul', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'church'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the country uses the sterling pound as its currency is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'currency', 'o': 'pound', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'country'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the religious text followed by exodus is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'followed by', 'o': 'exodus', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'religious text'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the public company that has the material produced of coca-cola is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'material produced', 'o': 'coca-cola', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'public company'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the film production company which was founded by oprah winfrey is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'founded by', 'o': 'oprah winfrey', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'film production company'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the confederation with jefferson davis as head of government is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'head of government', 'o': 'jefferson davis', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'confederation'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the file format is used by the programming language sql is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'programming language', 'o': 'sql', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'file format'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the human who is relative of kate spade is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'relative', 'o': 'kate spade', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'human'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the city uses chinese new year as public holiday is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'public holiday', 'o': 'chinese new year', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'city'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the giants killed by heracles is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'killed by', 'o': 'heracles', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'giants'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the nuclear weapons test designed by manhattan project is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'designed by', 'o': 'manhattan project', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'nuclear weapons test'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>
+
+QUESTION: the film with hayao miyazaki as executive producer is Answer
+ALIST: {'h': 'list', 'v': '?x0', 's': '?x0', 'p': 'executive producer', 'o': 'hayao miyazaki', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'film'}}
+TEMPLATE: <?S P O ; ?S InstanceOf Type>

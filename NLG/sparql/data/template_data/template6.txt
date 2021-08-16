@@ -1,0 +1,176 @@
+
+QUESTION: the female beauty pageant that operating area all countries which contains the word model in their name is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'female beauty pageant', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'operating area', 'o': 'all countries'}}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'model'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the organization whose name has the word zollkriminalamt in it is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'organization'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'zollkriminalamt'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the greek deity of sibling of zeus which contains the word poseidon in it name is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'greek deity', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'sibling', 'o': 'zeus'}}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'poseidon'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the physical phenomenon whose name has the word surface is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'physical phenomenon'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'surface'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the unit of measurement which start with the letter visus is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'unit of measurement'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'visus'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the soil type whose name has the word vertisol in it is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'soil type'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'vertisol'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the ceremony whose name has the word umhlanga in it is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'ceremony'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'umhlanga'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the national association football team whose name has the word team in it is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'national association football team'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'team'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the interface standard whose name has the word virtuallink in it is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'interface standard'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'virtuallink'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the medical specialty whose name has the word trichology in it is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'medical specialty'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'trichology'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the state of india that contains the word uttarakhand in its name is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'state of india'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'uttarakhand'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the television series which contains the word zigby in its name is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'television series'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'zigby'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the zuckerart that contains the word syrup in its name is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'zuckerart'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'syrup'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the traditional fairy tale that contains the word snow in its name is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'traditional fairy tale'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'snow'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the thoracic disease that contains the word syndrome in its name is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'thoracic disease'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'syndrome'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the biogeochemical cycle whose name has the word cycle in it is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'biogeochemical cycle'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'cycle'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the luther city that contain the word worms in its name is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'luther city'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'worms'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the type of food or dish that contains the word torta in its name is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'type of food or dish'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'torta'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the literary genre whose name has the word vita in it is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'literary genre'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'vita'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the kinship whose name has the word uncle in it is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'kinship'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'uncle'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the brain region that contains the word thalamus in its name is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'brain region'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'thalamus'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the coachwork type which start with the letter van is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'coachwork type'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'van'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the security agency whose name has the word state in it is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'security agency'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'state'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the political party whose name has the word veritas in it is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'political party'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'veritas'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the recurring sporting event whose name has the word world in it is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'recurring sporting event'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'world'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the reference model whose name has the word model in it is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'reference model'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'model'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the mythical character that contains the word zau in its name is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'mythical character'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'zau'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the physical quantity whose name has the word work in it is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'physical quantity'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'work'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the superhero that contains the word wolfsbane in its name is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'superhero'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'wolfsbane'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the written work whose name has the word war in it is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'written work'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'war'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the dyad that contains the word yan in its name is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'dyad'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'yan'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the board game that practiced by backgammon player and which contains the word backgammon in their name is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'board game', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'practiced by', 'o': 'backgammon player'}}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'backgammon'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the image compression contains the word graphics in its name is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'image compression'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'graphics'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the particle radiation that contains the word cosmic in its name is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'particle radiation'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'cosmic'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the winged horse which start with the letter pegasus is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'winged horse'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'pegasus'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the wikimedia set index article which start with the letter typhoon is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'wikimedia set index article'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'typhoon'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the form of government which start with the letter unicameralism is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'form of government'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'unicameralism'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the art genre that studied by ballet studies and which contains the word ballet in its name is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'art genre', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'studied by', 'o': 'ballet studies'}}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'ballet'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the comics character which starts with the letter viper is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'comics character'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'viper'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the public company whose name has the word yandex in it is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'public company'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'yandex'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the circumstellar disk whose name has the word belt in it is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'circumstellar disk'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'belt'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the excipient whose name has the word xylitol in it is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'excipient'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'xylitol'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the analytic function which start with the letter function is Answer
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'analytic function'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'function'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >
+
+QUESTION: the athletic conference which contains the word north in its name is Answer 
+ALIST: {'h': 'list', 'v': '?x0,?x1', 's': '?x0', 'p': 'label', 'o': '?x1', '?x0': {'h': 'value', 'v': '?x0', 's': '?x0', 'p': 'type', 'o': 'athletic conference'}, '?x1': {'h': 'value', 'v': '?x1', 's': '?x1', 'p': 'contains', 'o': 'north'}}
+TEMPLATE: <?S P O ; ?S instanceOf Type ; contains word >

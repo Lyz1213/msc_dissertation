@@ -1,0 +1,172 @@
+
+QUESTION: it is Answer that right ascension of malin 1 less than 15.1398
+ALIST: {'h': 'less', 'v': '?x0', 's': 'malin 1', 'p': 'right ascension', 'o': '?x0', '?x0': '15.1398'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that clock speed of the watara supervision smaller than 3.2
+ALIST: {'h': 'less', 'v': '?x0', 's': 'watara supervision', 'p': 'clock speed', 'o': '?x0', '?x0': '3.2'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that century breaks of the colm gilcreest equal or less than 9.6
+ALIST: {'h': 'less', 'v': '?x0', 's': 'colm gilcreest', 'p': 'century breaks', 'o': '?x0', '?x0': '9.6'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that there are more than 0 survivors of the charkhi dadri mid-air collision
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'charkhi dadri mid-air collision', 'p': 'survivors', 'o': '?x0', '?x0': '0'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the throughput of the vest-vassdraget equal to 2697.672
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'vest-vassdraget', 'p': 'throughput', 'o': '?x0', '?x0': '2697.672'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the slope rating of the merion golf club equal to 149
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'merion golf club', 'p': 'slope rating', 'o': '?x0', '?x0': '149'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the total fertility rate of algeria greater than 3.4284
+ALIST: {'h': 'greater', 'v': '?x0', 's': 'algeria', 'p': 'total fertility rate', 'o': '?x0', '?x0': '3.4284'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the maximum wavelength of sensitivity of the human eye equal to 700
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'human eye', 'p': 'maximum wavelength of sensitivity', 'o': '?x0', '?x0': '700'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the diameter pf nickel equal to 0.807
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'nickel', 'p': 'diameter', 'o': '?x0', '?x0': '0.807'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the enthalpy of vaporization of methanol is equal to 37400
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'methanol', 'p': 'enthalpy of vaporization', 'o': '?x0', '?x0': '37400'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the cash back of the gold adac credit card equal to 5
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'adac credit card gold', 'p': 'cash back', 'o': '?x0', '?x0': '5'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the topographic isolation of pollux equals to 0.7
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'pollux', 'p': 'topographic isolation', 'o': '?x0', '?x0': '0.7'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the half-life of silicon-36 less than 0.54
+ALIST: {'h': 'less', 'v': '?x0', 's': 'silicon-36', 'p': 'half-life', 'o': '?x0', '?x0': '0.54'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the ppp gdp per capita of lithuania less than 22148.8
+ALIST: {'h': 'less', 'v': '?x0', 's': 'lithuania', 'p': 'ppp gdp per capita', 'o': '?x0', '?x0': '22148.8'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the topographic prominence of the franzosenkopf less than 4.0
+ALIST: {'h': 'less', 'v': '?x0', 's': 'franzosenkopf', 'p': 'topographic prominence', 'o': '?x0', '?x0': '4.0'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the apoapsis of the aotearoa 3400 equal to 2.126
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'aotearoa', 'p': 'apoapsis', 'o': '?x0', '?x0': '2.126'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the toughness of grivory gm-4h less than 7.2
+ALIST: {'h': 'less', 'v': '?x0', 's': 'grivory gm-4h', 'p': 'toughness', 'o': '?x0', '?x0': '7.2'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the target interest rate of central bank of azerbaijan equal to 5.25
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'central bank of azerbaijan', 'p': 'target interest rate', 'o': '?x0', '?x0': '5.25'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the beats per minute of the colorless aura equal to 50
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'colorless aura', 'p': 'beats per minute', 'o': '?x0', '?x0': '50'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the age of majority of the usa equal to t1410874016
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'usa', 'p': 'age of majority', 'o': '?x0', '?x0': 't1410874016'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the height of the bmw i8 equal 1
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'bmw i8', 'p': 'height', 'o': '?x0', '?x0': '1'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the watershed area of the rio de santa maria zobenigo greater than 0.00083176
+ALIST: {'h': 'greater', 'v': '?x0', 's': 'rio de santa maria zobenigo', 'p': 'watershed area', 'o': '?x0', '?x0': '0.00083176'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the dynamic viscosity of the acetic acid greater than 0.6288
+ALIST: {'h': 'greater', 'v': '?x0', 's': 'acetic acid', 'p': 'dynamic viscosity', 'o': '?x0', '?x0': '0.6288'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the kinematic viscosity of propylene glycol equal to 0.054
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'propylene glycol', 'p': 'kinematic viscosity', 'o': '?x0', '?x0': '0.054'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the saf 2507 have a pitting resistance equivalent number that is greater than 45.24
+ALIST: {'h': 'greater', 'v': '?x0', 's': 'saf 2507', 'p': 'pitting resistance equivalent number', 'o': '?x0', '?x0': '45.24'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the assets under management of the blackrock less than 8146800000.0
+ALIST: {'h': 'less', 'v': '?x0', 's': 'blackrock', 'p': 'assets under management', 'o': '?x0', '?x0': '8146800000.0'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the melting point of mercury is less than -45.6
+ALIST: {'h': 'less', 'v': '?x0', 's': 'mercury', 'p': 'melting point', 'o': '?x0', '?x0': '-45.6'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the conversion to si unit of the statcoulomb is greater than 2.6685128e-10
+ALIST: {'h': 'greater', 'v': '?x0', 's': 'statcoulomb', 'p': 'conversion to si unit', 'o': '?x0', '?x0': '2.6685128e-10'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the literate population of dharampur equals 0
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'dharampur', 'p': 'literate population', 'o': '?x0', '?x0': '0'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the valency of monotransitive verb equals to 2
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'monotransitive verb', 'p': 'valency', 'o': '?x0', '?x0': '2'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the thermal diffusivity of adobe is less than 0.216
+ALIST: {'h': 'less', 'v': '?x0', 's': 'adobe', 'p': 'thermal diffusivity', 'o': '?x0', '?x0': '0.216'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the service life of the ambatovy mine equals 29
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'ambatovy mine', 'p': 'service life', 'o': '?x0', '?x0': '29'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that true that the residence time of water in tai lake equals 0.79
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'tai lake', 'p': 'residence time of water', 'o': '?x0', '?x0': '0.79'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the annual energy output of the greater gabbard wind farm equal to 1800
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'greater gabbard wind farm', 'p': 'annual energy output', 'o': '?x0', '?x0': '1800'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the number of cylinders of the kkstb 197 equals 2
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'kkstb 197', 'p': 'number of cylinders', 'o': '?x0', '?x0': '2'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the number of episodes of mansfield park is greater than 0.8
+ALIST: {'h': 'greater', 'v': '?x0', 's': 'mansfield park', 'p': 'number of episodes', 'o': '?x0', '?x0': '0.8'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the gestation period of the gorilla less than 324.0
+ALIST: {'h': 'less', 'v': '?x0', 's': 'gorilla', 'p': 'gestation period', 'o': '?x0', '?x0': '324.0'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that lighthouse range of south channel pile light less than 2.4
+ALIST: {'h': 'less', 'v': '?x0', 's': 'south channel pile light', 'p': 'lighthouse range', 'o': '?x0', '?x0': '2.4'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the total reserves of denmark equal to 75391898443
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'denmark', 'p': 'total reserves', 'o': '?x0', '?x0': '75391898443'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the bore mitsubishi kinsei equal to 140
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'kinsei', 'p': 'bore', 'o': '?x0', '?x0': '140'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the number of representations of a seaside rendezvous less than 2.4
+ALIST: {'h': 'less', 'v': '?x0', 's': 'a seaside rendezvous', 'p': 'number of representations', 'o': '?x0', '?x0': '2.4'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the cash of the delta air lines is more than 2313600000.0
+ALIST: {'h': 'greater', 'v': '?x0', 's': 'delta air lines', 'p': 'cash', 'o': '?x0', '?x0': '2313600000.0'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num
+
+QUESTION: it is Answer that the patronage of the guiuan airport equal to 1.2
+ALIST: {'h': 'equal', 'v': '?x0', 's': 'guiuan airport', 'p': 'patronage', 'o': '?x0', '?x0': '1.2'}
+TEMPLATE: ASK ?sbj ?pred ?obj filter ?obj = num

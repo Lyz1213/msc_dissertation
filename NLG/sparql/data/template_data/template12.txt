@@ -1,0 +1,157 @@
+
+QUESTION: the award danila kozlovsky received in 2017 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'danila kozlovsky', 'p': 'award', 'o': '?x0', 't': '2017'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the method that the census used to determine the population of taguig is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'population', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'taguig', 'p': 'population', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'method', 'o': 'census'}}}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the award olga tokarczuk received in 2015 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'olga tokarczuk', 'p': 'award', 'o': '?x0', 't': '2015'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the last team allan border belonged to in 1980 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'allan border', 'p': 'team', 'o': '?x0', 't': '1980'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the density of hydrogen peroxide at a temperature of 20.0 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'density', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'hydrogen peroxide', 'p': 'density', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'temperature', 'o': '20.0'}}}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the award john de mol received in 2011 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'john de mol', 'p': 'award', 'o': '?x0', 't': '2011'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the stock exchange for the ticker symbol 0700 in tencent is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'stock exchange', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'tencent', 'p': 'stock exchange', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'ticker symbol', 'o': '0700'}}}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the people who is the child of pompey and the mother mucia tertia is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'child', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'pompey', 'p': 'child', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'mother', 'o': 'mucia tertia'}}}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the spouse of carlos saura in 2006 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'carlos saura', 'p': 'spouse', 'o': '?x0', 't': '2006'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the award received by harry martinson together with eyvind johnson is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'award', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'harry martinson', 'p': 'award', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'together with', 'o': 'eyvind johnson'}}}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the population of the maldives in 1967 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'maldives', 'p': 'population', 'o': '?x0', 't': '1967'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the people who was married to ida lupino in 1951 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'ida lupino', 'p': 'married to', 'o': '?x0', 't': '1951'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the award did i.m. pei received in 2010 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'i.m. pei', 'p': 'award', 'o': '?x0', 't': '2010'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the genetic association of major depressive disorder with the determination method tas is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'genetic association', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'major depressive disorder', 'p': 'genetic association', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'determination method', 'o': 'tas'}}}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the team peter schmeichel started playing for in 1984 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'peter schmeichel', 'p': 'team', 'o': '?x0', 't': '1984'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the position held by john tyler that is replaced by william henry harrison is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'position held', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'john tyler', 'p': 'position held', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'replaces', 'o': 'william henry harrison'}}}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the george washington military rank in 1796 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'george washington', 'p': 'military rank', 'o': '?x0', 't': '1796'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the short name of aruba which is instance of emoji flag sequence is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'short name', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'aruba', 'p': 'short name', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'type', 'o': 'emoji flag sequence'}}}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the award maria montessori was nominated for in 1950 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'maria montessori', 'p': 'nominated for', 'o': '?x0', 't': '1950'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the position held of martin van buren, which is replaced by is edward livingston, is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'position held', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'martin van buren', 'p': 'position held', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'replaced by', 'o': 'edward livingston'}}}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the head of government of palestine in 2014 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'palestine', 'p': 'head of government', 'o': '?x0', 't': '2014'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the city became a twin city of klagenfurt in 1990 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'klagenfurt', 'p': 'twin city', 'o': '?x0', 't': '1990'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the population of lucknow in 2011 was Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'lucknow', 'p': 'population', 'o': '?x0', 't': '2011'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the population of normandy in 2005 was Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'normandy', 'p': 'population', 'o': '?x0', 't': '2005'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the country started in the year 1871 in wiesbaden is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'wiesbaden', 'p': 'country', 'o': '?x0', 't': '1871'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the people who was married to lynn margulis in 1957 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'lynn margulis', 'p': 'married to', 'o': '?x0', 't': '1957'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the position held of félix faure that is replaced by is émile loubet is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'position held', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'félix faure', 'p': 'position held', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'replaced by', 'o': 'émile loubet'}}}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the edition on the origin of species, which was published in 1906, is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'on the origin of species', 'p': 'edition', 'o': '?x0', 't': '1906'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the human development index of chile in 2012 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'chile', 'p': 'human development index', 'o': '?x0', 't': '2012'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the award keanu reeves received, which was also won by sandra bullock, is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'award', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'keanu reeves', 'p': 'award', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'won by', 'o': 'sandra bullock'}}}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the runway in lax which are made of concrete is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'runway', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'lax', 'p': 'runway', 'o': '$y0', '$y0': {'h': 'value', 'v': '$y0', 's': '$y0', 'p': 'made of', 'o': 'concrete'}}}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the parent organization of bayer in 1925 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'bayer', 'p': 'parent organization', 'o': '?x0', 't': '1925'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: in 2014 the population of new haven was Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'new haven', 'p': 'population', 'o': '?x0', 't': '2014'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the award maria rojo received in 1978 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'maria rojo', 'p': 'award', 'o': '?x0', 't': '1978'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: in 1944 the spouse of simone signoret is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'simone signoret', 'p': 'spouse', 'o': '?x0', 't': '1944'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the cast member who joined sesame street in 1972 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'sesame street', 'p': 'cast member', 'o': '?x0', 't': '1972'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the administrative territorial entity of lancashire 1994 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'lancashire', 'p': 'in', 'o': '?x0', 't': '1994'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the aspect ratio of law & order in 1994 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'law & order', 'p': 'aspect ratio', 'o': '?x0', 't': '1994'}
+TEMPLATE: (E pred F) prop ?value
+
+QUESTION: the software version of perl which was published in 2014 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': 'perl', 'p': 'version', 'o': '?x0', 't': '2014'}
+TEMPLATE: (E pred F) prop ?value
+

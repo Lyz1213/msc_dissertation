@@ -1,0 +1,180 @@
+
+QUESTION: the prequel of phase of matter of galinstan is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'prequel of', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'galinstan', 'p': 'phase of matter', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the student that coined the euler-lagrange equation is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'student', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'euler-lagrange equation', 'p': 'coined', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the ordinal number of season begins of handball-bundesliga is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'number', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'handball-bundesliga', 'p': 'season begins', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: Answer is played by symbol of inequality
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'played by', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'inequality', 'p': 'symbol', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the edition runtime for league of legends is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'edition', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'league of legends', 'p': 'runtime', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION:  Answer is in conflict of depiction of raising the flag on iwo jima
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'conflict', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'raising the flag on iwo jima', 'p': 'depiction of', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the timezone of death location of sallust is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'timezone', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'sallust', 'p': 'death location', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the religious affiliation of child of vladimir the great is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'religious affiliation', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'vladimir the great', 'p': 'child of', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the twin town of principle office of financial times is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'twin town', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'financial times', 'p': 'principle office', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the culture of state of australian secret intelligence service is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'culture', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'australian secret intelligence service', 'p': 'state', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the language the sculptor of z3 writes in is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'language', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'z3', 'p': 'sculptor', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the stable version of user interface of amazon kindle is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'version', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'amazon kindle', 'p': 'user interface', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the sister city of ivan turgenev hometown is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'sister city', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'ivan turgenev', 'p': 'hometown', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the pronunciation audio of constructed out of meat pie is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'pronunciation audio', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'meat pie', 'p': 'constructed out of', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the cardinality of this set of input set of complex logarithm is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'cardinality of this set', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'complex logarithm', 'p': 'input set', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the working language of sovereign state of alice springs is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'working language', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'alice springs', 'p': 'state', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the farthest north of place held by balkans campaign is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'farthest north', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'balkans campaign', 'p': 'location', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the category of associated people of theatre season of odoacer is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'category of associated people', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'odoacer', 'p': 'theatre season', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the religious affiliation of ethnicity sirhan sirhan is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'religious affiliation', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'sirhan sirhan', 'p': 'ethnicity', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the speakers of language of working languages of kingdom of england is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'speakers of language', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'kingdom of england', 'p': 'working languages', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the genetic association that can be found in species with post-traumatic stress disorder is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'found in species', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'post-traumatic stress disorder', 'p': 'genetic association', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the career of characters of buffy the vampire slayer is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'career', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'buffy the vampire slayer', 'p': 'characters', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the son of master lou harrison is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'son', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'lou harrison', 'p': 'master', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the local dialling code of publication region of the dallas morning news is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'dialling code', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'dallas morning news', 'p': 'publication region', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the temperature on river of iberian peninsula is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'temperature', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'iberian peninsula', 'p': 'on river', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the position of head of government of service operator mig-21 is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'position of head of government', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'mig-21', 'p': 'operator', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the executive authority of play snowboard is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'authority', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'snowboard', 'p': 'play', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the rank of the taxon parent of physalis philadelphica is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'rank', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'physalis philadelphica', 'p': 'taxon parent', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the diplomatic relation of sovereign state of university of iowa is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'diplomatic relation', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'university of iowa', 'p': 'state', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the continent of death place of thomas morley is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'continent', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'thomas morley', 'p': 'death place', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the official language of basin countries of white sea is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'official language', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'white sea', 'p': 'basin countries', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the key incident in the provenance of glencore is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'key incident', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'glencore', 'p': 'provenance', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the preceeds of implies of vaporization is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'preceeds', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'vaporization', 'p': 'implies', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the scientific area of developed by of perl is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'area', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'perl', 'p': 'developed by', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the admin hq of alma mater of victor hugo is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'hq', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'victor hugo', 'p': 'alma mater', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the mathematical formula of the shape of the cooling tower is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'formula', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'cooling tower', 'p': 'shape', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the edition of game platform of second life is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'edition', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'second life', 'p': 'platform', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the date disbanded for label calvin harris is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'date disbanded', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'calvin harris', 'p': 'label', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the time of the day in year of easter is Answer
+ALIST: {'h': 'value', 'v': '$y0', 's': 'easter', 'p': 'day in year', 'o': '$y0', 't': '?x0'}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the player that participated in barbora spotakova is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'player', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'barbora spotakova', 'p': 'participated in', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the cpi inflation rate of the endemic of the indian cuisine is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'inflation rate', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'indian cuisine', 'p': 'endemic to', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: Answer is located in the landscape of the scream
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'is located in', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'the scream', 'p': 'landscape of', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the item used of coincident with human body is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'used', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'human body', 'p': 'coincident with', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the parent company of alumnus of virgil thomson is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'parent company of', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'virgil thomson', 'p': 'alumnus of', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G
+
+QUESTION: the developer of continent of amundsen sea is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'developer', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'amundsen sea', 'p': 'continent', 'o': '$y0'}}
+TEMPLATE: E REF xF . xF RFG ?G

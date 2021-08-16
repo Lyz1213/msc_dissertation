@@ -1,0 +1,105 @@
+
+QUESTION: the brother-in-law of writer quran is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'brother-in-law', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'quran', 'p': 'writer', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the teacher of supervisor of shigeno yasutsugu is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'teacher of', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'shigeno yasutsugu', 'p': 'teacher', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the church which is located in the parish border krukengrund is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'border', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'krukengrund', 'p': 'is located in', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the agent which had conflict with lowell english is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'agent', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'lowell english', 'p': 'conflict', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the faith which has influence on madonna is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'faith', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'madonna', 'p': 'has influence', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the bibliography of the advisor of karl herzfeld is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'bibliography', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'karl herzfeld', 'p': 'advisor', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the music genre which is developed by battle zeque den is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'genre', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'battle zeque den', 'p': 'developed by', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the name of the continent of the mountain belt in mount caywood is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'continent', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'mount caywood', 'p': 'mountain belt', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the division for which jurandir fatori team play is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'division', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'jurandir fatori', 'p': 'team', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the club manager of actress of wrestlemania iii is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'manager', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'wrestlemania iii', 'p': 'actress', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the resting place of dedication of the church of st peter is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'resting place', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'church of st peter', 'p': 'dedication', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the color appears in rocketeer is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'color', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'rocketeer', 'p': 'appears in', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the co-founder of the evening of ashura is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'co-founder', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'the evening of ashura', 'p': 'location', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the edition of the game platform of star trek online is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'edition', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'star trek online', 'p': 'platform', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the incumbent of professorship position of john budden is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'incumbent', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'john budden', 'p': 'professorship', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the musical instrument of lyricist of face to the sky is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'instrument', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'face to the sky', 'p': 'lyricist', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the member of crew of cosmonaut mission of michael fincke is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'member of crew of', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'michael fincke', 'p': 'cosmonaut mission', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the timeline of topic for culture of belle barth is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'timeline of topic', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'belle barth', 'p': 'culture', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the facet of a polytope of shape of six-sided die is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'facet of a polytope', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'six-sided die', 'p': 'shape', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the leader of party membership of martin dinha is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'leader', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'martin dinha', 'p': 'party', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the desired outcome of remake of half moon replica is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'desired outcome', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'half moon replica', 'p': 'remake of', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+
+QUESTION: the colour of team of maurice wellock is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'colour', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'maurice wellock', 'p': 'team', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the painting of coat of arms of overbetuwe is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'painting of', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'overbetuwe', 'p': 'coat of arms', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the sister or brother of portrait of flaying of marsyas is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'sister', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'flaying of marsyas', 'p': 'portrait of', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the faculty of film director of the star wars holiday special is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'faculty', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'the star wars holiday special', 'p': 'director', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
+
+QUESTION: the manifestation of work of johann reinhard kistner is Answer
+ALIST: {'h': 'value', 'v': '?x0', 's': '$y0', 'p': 'manifestation of', 'o': '?x0', '$y0': {'h': 'value', 'v': '$y0', 's': 'johann reinhard kistner', 'p': 'work', 'o': '$y0'}}
+TEMPLATE: C RCD xD . xD RDE ?E
